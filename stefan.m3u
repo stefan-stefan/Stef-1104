@@ -1,425 +1,1783 @@
-#EXTINF:-1 tvg-id="" tvg-name="========== RO Canalele Naționale ==========" tvg-logo="" group-title="Romania",========== RO Canalele Naționale ==========
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/15313
-#EXTINF:-1 tvg-id="" tvg-name="IMPACT TV RO" tvg-logo="" group-title="Romania",IMPACT TV RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/90911
-#EXTINF:-1 tvg-id="" tvg-name="Bollywood Film RO" tvg-logo="" group-title="Romania",Bollywood Film RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/90118
-#EXTINF:-1 tvg-id="" tvg-name="Bollywood Clasic RO" tvg-logo="" group-title="Romania",Bollywood Clasic RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/90117
-#EXTINF:-1 tvg-id="TVR 1 RO" tvg-name="TVR 1 RO" tvg-logo="" group-title="Romania",TVR 1 RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/814
-#EXTINF:-1 tvg-id="" tvg-name="TVR FHD RO" tvg-logo="" group-title="Romania",TVR FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74112
-#EXTINF:-1 tvg-id="TVR 2 RO" tvg-name="TVR 2 RO" tvg-logo="" group-title="Romania",TVR 2 RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/779
-#EXTINF:-1 tvg-id="TVR International RO" tvg-name="TVR International RO" tvg-logo="" group-title="Romania",TVR International RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/25522
-#EXTINF:-1 tvg-id="Pro TV RO" tvg-name="ProTV RO" tvg-logo="" group-title="Romania",ProTV RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/812
-#EXTINF:-1 tvg-id="" tvg-name="ProTV FHD RO" tvg-logo="" group-title="Romania",ProTV FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74117
-#EXTINF:-1 tvg-id="Pro TV International RO" tvg-name="Pro TV International RO" tvg-logo="" group-title="Romania",Pro TV International RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/25524
-#EXTINF:-1 tvg-id="Antena 1 RO" tvg-name="Antena 1 RO" tvg-logo="" group-title="Romania",Antena 1 RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/782
-#EXTINF:-1 tvg-id="" tvg-name="Antena 1 FHD RO" tvg-logo="" group-title="Romania",Antena 1 FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74118
-#EXTINF:-1 tvg-id="Kanal D RO" tvg-name="Kanal D RO" tvg-logo="" group-title="Romania",Kanal D RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/768
-#EXTINF:-1 tvg-id="Prima TV RO" tvg-name="Prima TV RO" tvg-logo="" group-title="Romania",Prima TV RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/773
-#EXTINF:-1 tvg-id="National TV RO" tvg-name="National TV RO" tvg-logo="" group-title="Romania",National TV RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/811
-#EXTINF:-1 tvg-id="" tvg-name="Digi 24 RO" tvg-logo="" group-title="Romania",Digi 24 RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/758
-#EXTINF:-1 tvg-id="" tvg-name="Digi 24 FHD RO" tvg-logo="" group-title="Romania",Digi 24 FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74115
-#EXTINF:-1 tvg-id="Realitatea TV RO" tvg-name="Realitatea TV RO" tvg-logo="" group-title="Romania",Realitatea TV RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/774
-#EXTINF:-1 tvg-id="Antena 3 RO" tvg-name="Antena 3 RO" tvg-logo="" group-title="Romania",Antena 3 RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/795
-#EXTINF:-1 tvg-id="" tvg-name="Antena 3 FHD RO" tvg-logo="" group-title="Romania",Antena 3 FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74116
-#EXTINF:-1 tvg-id="Romania Tv RO" tvg-name="Romania TV RO" tvg-logo="" group-title="Romania",Romania TV RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/777
-#EXTINF:-1 tvg-id="B1 RO" tvg-name="B1 TV RO" tvg-logo="" group-title="Romania",B1 TV RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/757
-#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 1 RO" tvg-logo="" group-title="Romania",Digi Sport 1 RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/754
-#EXTINF:-1 tvg-id="" tvg-name="DIGI Sport 1 HD RO" tvg-logo="" group-title="Romania",DIGI Sport 1 HD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/753
-#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 1 FHD RO" tvg-logo="" group-title="Romania",Digi Sport 1 FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74071
-#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 2 RO" tvg-logo="" group-title="Romania",Digi Sport 2 RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/763
-#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 2 FHD RO" tvg-logo="" group-title="Romania",Digi Sport 2 FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74070
-#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 3 RO" tvg-logo="" group-title="Romania",Digi Sport 3 RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/762
-#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 3 FHD RO" tvg-logo="" group-title="Romania",Digi Sport 3 FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74069
-#EXTINF:-1 tvg-id="Digi Sport 4 RO" tvg-name="Digi Sport 4 RO" tvg-logo="" group-title="Romania",Digi Sport 4 RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/761
-#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 4 FHD RO" tvg-logo="" group-title="Romania",Digi Sport 4 FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74068
-#EXTINF:-1 tvg-id="Sport.ro RO" tvg-name="Pro-X RO" tvg-logo="" group-title="Romania",Pro-X RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/804
-#EXTINF:-1 tvg-id="" tvg-name="TeleKom Sport 1 HD RO" tvg-logo="" group-title="Romania",TeleKom Sport 1 HD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/16351
-#EXTINF:-1 tvg-id="" tvg-name="Telekom Sport 1 FHD RO" tvg-logo="" group-title="Romania",Telekom Sport 1 FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74067
-#EXTINF:-1 tvg-id="" tvg-name="TeleKom Sport 2 HD RO" tvg-logo="" group-title="Romania",TeleKom Sport 2 HD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/16352
-#EXTINF:-1 tvg-id="" tvg-name="Telekom Sport 2 FHD RO" tvg-logo="" group-title="Romania",Telekom Sport 2 FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74066
-#EXTINF:-1 tvg-id="" tvg-name="TeleKom Sport 3 HD RO" tvg-logo="" group-title="Romania",TeleKom Sport 3 HD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/16353
-#EXTINF:-1 tvg-id="" tvg-name="Telekom Sport 3 FHD RO" tvg-logo="" group-title="Romania",Telekom Sport 3 FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74065
-#EXTINF:-1 tvg-id="" tvg-name="TeleKom Sport 4 HD RO" tvg-logo="" group-title="Romania",TeleKom Sport 4 HD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/16356
-#EXTINF:-1 tvg-id="" tvg-name="Telekom Sport 4 FHD RO" tvg-logo="" group-title="Romania",Telekom Sport 4 FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74064
-#EXTINF:-1 tvg-id="" tvg-name="PRO-X FHD RO" tvg-logo="" group-title="Romania",PRO-X FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74109
-#EXTINF:-1 tvg-id="Eurosport 1 RO" tvg-name="EuroSport 1 RO" tvg-logo="" group-title="Romania",EuroSport 1 RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/775
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 FHD RO" tvg-logo="" group-title="Romania",Eurosport 1 FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74073
-#EXTINF:-1 tvg-id="Eurosport 2 RO" tvg-name="EuroSport 2 RO" tvg-logo="" group-title="Romania",EuroSport 2 RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/766
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 FHD RO" tvg-logo="" group-title="Romania",Eurosport 2 FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74072
-#EXTINF:-1 tvg-id="" tvg-name="PRO.2 RO" tvg-logo="" group-title="Romania",PRO.2 RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/793
-#EXTINF:-1 tvg-id="" tvg-name="Pro 2 FHD RO" tvg-logo="" group-title="Romania",Pro 2 FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74110
-#EXTINF:-1 tvg-id="" tvg-name="Film Cafe RO" tvg-logo="" group-title="Romania",Film Cafe RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/9346
-#EXTINF:-1 tvg-id="" tvg-name="PRO.GOLD RO" tvg-logo="" group-title="Romania",PRO.GOLD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/9347
-#EXTINF:-1 tvg-id="" tvg-name="Happy Channel RO" tvg-logo="" group-title="Romania",Happy Channel RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/787
-#EXTINF:-1 tvg-id="" tvg-name="Happy Channel HD RO" tvg-logo="" group-title="Romania",Happy Channel HD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/25526
-#EXTINF:-1 tvg-id="" tvg-name="Happy Channel FHD RO" tvg-logo="" group-title="Romania",Happy Channel FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74113
-#EXTINF:-1 tvg-id="Antena Stars RO" tvg-name="Antena Stars RO" tvg-logo="" group-title="Romania",Antena Stars RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/783
-#EXTINF:-1 tvg-id="" tvg-name="Antena Stars FHD RO" tvg-logo="" group-title="Romania",Antena Stars FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74114
-#EXTINF:-1 tvg-id="" tvg-name="TV Paprika RO" tvg-logo="" group-title="Romania",TV Paprika RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/25432
-#EXTINF:-1 tvg-id="" tvg-name="Digi World RO" tvg-logo="" group-title="Romania",Digi World RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/764
-#EXTINF:-1 tvg-id="" tvg-name="Digi World FHD RO" tvg-logo="" group-title="Romania",Digi World FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74085
-#EXTINF:-1 tvg-id="" tvg-name="Digi Life RO" tvg-logo="" group-title="Romania",Digi Life RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/760
-#EXTINF:-1 tvg-id="" tvg-name="Digi Life FHD RO" tvg-logo="" group-title="Romania",Digi Life FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74086
-#EXTINF:-1 tvg-id="" tvg-name="Digi Animal World RO" tvg-logo="" group-title="Romania",Digi Animal World RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/759
-#EXTINF:-1 tvg-id="" tvg-name="Digi Animal World FHD RO" tvg-logo="" group-title="Romania",Digi Animal World FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74084
-#EXTINF:-1 tvg-id="Discovery Channel RO" tvg-name="Discovery Channel RO" tvg-logo="http://195.154.221.171/picons/discoverychannel.png" group-title="Romania",Discovery Channel RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/25157
-#EXTINF:-1 tvg-id="History RO" tvg-name="History Channel RO" tvg-logo="" group-title="Romania",History Channel RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/767
-#EXTINF:-1 tvg-id="National Geographic RO" tvg-name="National Geographic RO" tvg-logo="" group-title="Romania",National Geographic RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/772
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo FHD RO" tvg-logo="" group-title="Romania",NatGeo FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74090
-#EXTINF:-1 tvg-id="" tvg-name="Viasat Nature RO" tvg-logo="" group-title="Romania",Viasat Nature RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/781
-#EXTINF:-1 tvg-id="" tvg-name="Viasat Nature/History FHD RO" tvg-logo="" group-title="Romania",Viasat Nature/History FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74083
-#EXTINF:-1 tvg-id="" tvg-name="Travel Channel FHD RO" tvg-logo="" group-title="Romania",Travel Channel FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74091
-#EXTINF:-1 tvg-id="" tvg-name="BBC Earth HD RO" tvg-logo="http://195.154.221.171/picons/bbcearth.png" group-title="Romania",BBC Earth HD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/25156
-#EXTINF:-1 tvg-id="" tvg-name="BBC Earth FHD RO" tvg-logo="" group-title="Romania",BBC Earth FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74097
-#EXTINF:-1 tvg-id="Nat Geo Wild RO" tvg-name="Nat Geo Wild RO" tvg-logo="" group-title="Romania",Nat Geo Wild RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/771
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild FHD RO" tvg-logo="" group-title="Romania",NatGeo Wild FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74089
-#EXTINF:-1 tvg-id="" tvg-name="Viasat Explorer RO" tvg-logo="" group-title="Romania",Viasat Explorer RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/5470
-#EXTINF:-1 tvg-id="Viasat History RO" tvg-name="Viasat History RO" tvg-logo="" group-title="Romania",Viasat History RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/809
-#EXTINF:-1 tvg-id="" tvg-name="Travel Mix FHD RO" tvg-logo="" group-title="Romania",Travel Mix FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74082
-#EXTINF:-1 tvg-id="" tvg-name="Bollywood HD RO" tvg-logo="" group-title="Romania",Bollywood HD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74129
-#EXTINF:-1 tvg-id="" tvg-name="Film Now RO" tvg-logo="" group-title="Romania",Film Now RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/785
-#EXTINF:-1 tvg-id="" tvg-name="Film Now FHD RO" tvg-logo="" group-title="Romania",Film Now FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74106
-#EXTINF:-1 tvg-id="" tvg-name="FilmBox Extra FHD RO" tvg-logo="" group-title="Romania",FilmBox Extra FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74108
-#EXTINF:-1 tvg-id="Pro Cinema RO" tvg-name="ProCinema RO" tvg-logo="" group-title="Romania",ProCinema RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/803
-#EXTINF:-1 tvg-id="Diva Universal RO" tvg-name="DIVA TV RO" tvg-logo="" group-title="Romania",DIVA TV RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/25528
-#EXTINF:-1 tvg-id="TV 1000 RO" tvg-name="TV1000 RO" tvg-logo="" group-title="Romania",TV1000 RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/778
-#EXTINF:-1 tvg-id="Paramount Channel RO" tvg-name="Paramount Channel RO" tvg-logo="" group-title="Romania",Paramount Channel RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/802
-#EXTINF:-1 tvg-id="AXN RO" tvg-name="AXN Romania RO" tvg-logo="" group-title="Romania",AXN Romania RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/796
-#EXTINF:-1 tvg-id="" tvg-name="AXN FHD RO" tvg-logo="" group-title="Romania",AXN FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74107
-#EXTINF:-1 tvg-id="AXN White RO" tvg-name="AXN White RO" tvg-logo="" group-title="Romania",AXN White RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/797
-#EXTINF:-1 tvg-id="AXN Black RO" tvg-name="AXN Black RO" tvg-logo="" group-title="Romania",AXN Black RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/5465
-#EXTINF:-1 tvg-id="" tvg-name="AXN Spin RO" tvg-logo="" group-title="Romania",AXN Spin RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/25532
-#EXTINF:-1 tvg-id="" tvg-name="TNT RO" tvg-logo="" group-title="Romania",TNT RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/805
-#EXTINF:-1 tvg-id="" tvg-name="Epic Drama FHD RO" tvg-logo="" group-title="Romania",Epic Drama FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74098
-#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment FHD RO" tvg-logo="" group-title="Romania",E! Entertainment FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74099
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon RO" tvg-logo="" group-title="Romania",Nickelodeon RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/756
-#EXTINF:-1 tvg-id="" tvg-name="Nickolodeon FHD RO" tvg-logo="" group-title="Romania",Nickolodeon FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74062
-#EXTINF:-1 tvg-id="Minimax RO" tvg-name="Minimax RO" tvg-logo="" group-title="Romania",Minimax RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/770
-#EXTINF:-1 tvg-id="Cartoon Network RO" tvg-name="Cartoon Network HD RO" tvg-logo="" group-title="Romania",Cartoon Network HD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/25531
-#EXTINF:-1 tvg-id="Disney Channel RO" tvg-name="Disney Channel RO" tvg-logo="" group-title="Romania",Disney Channel RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/25529
-#EXTINF:-1 tvg-id="Disney Junior RO" tvg-name="Disney Junior RO" tvg-logo="" group-title="Romania",Disney Junior RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/765
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang RO" tvg-logo="" group-title="Romania",Boomerang RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/798
-#EXTINF:-1 tvg-id="" tvg-name="Megamax RO" tvg-logo="" group-title="Romania",Megamax RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/769
-#EXTINF:-1 tvg-id="" tvg-name="MegaMax HD RO" tvg-logo="" group-title="Romania",MegaMax HD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/5464
-#EXTINF:-1 tvg-id="Da Vinci Learning RO" tvg-name="Da Vinci Learning RO" tvg-logo="" group-title="Romania",Da Vinci Learning RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/25530
-#EXTINF:-1 tvg-id="" tvg-name="UTV FHD RO" tvg-logo="" group-title="Romania",UTV FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74077
-#EXTINF:-1 tvg-id="Kiss TV RO" tvg-name="Kiss TV RO" tvg-logo="" group-title="Romania",Kiss TV RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/789
-#EXTINF:-1 tvg-id="" tvg-name="Kiss TV FHD RO" tvg-logo="" group-title="Romania",Kiss TV FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74078
-#EXTINF:-1 tvg-id="Music Channel RO" tvg-name="Music Channel RO" tvg-logo="" group-title="Romania",Music Channel RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/810
-#EXTINF:-1 tvg-id="" tvg-name="1 Music Channel RO" tvg-logo="" group-title="Romania",1 Music Channel RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/792
-#EXTINF:-1 tvg-id="" tvg-name="Zu TV RO" tvg-logo="" group-title="Romania",Zu TV RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/25521
-#EXTINF:-1 tvg-id="" tvg-name="ZUTV FHD RO" tvg-logo="" group-title="Romania",ZUTV FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74079
-#EXTINF:-1 tvg-id="" tvg-name="Mooz HD RO" tvg-logo="" group-title="Romania",Mooz HD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/25525
-#EXTINF:-1 tvg-id="" tvg-name="Mooz Dance FHD RO" tvg-logo="" group-title="Romania",Mooz Dance FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74081
-#EXTINF:-1 tvg-id="" tvg-name="MTV Live FHD RO" tvg-logo="" group-title="Romania",MTV Live FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74076
-#EXTINF:-1 tvg-id="" tvg-name="Nasul TV RO" tvg-logo="" group-title="Romania",Nasul TV RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74100
-#EXTINF:-1 tvg-id="" tvg-name="Favorit TV RO" tvg-logo="" group-title="Romania",Favorit TV RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/780
-#EXTINF:-1 tvg-id="Etno RO" tvg-name="Etno TV RO" tvg-logo="" group-title="Romania",Etno TV RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/800
-#EXTINF:-1 tvg-id="Taraf TV RO" tvg-name="Taraf TV RO" tvg-logo="" group-title="Romania",Taraf TV RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/813
-#EXTINF:-1 tvg-id="" tvg-name="Agro TV RO" tvg-logo="" group-title="Romania",Agro TV RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/794
-#EXTINF:-1 tvg-id="" tvg-name="Digi 24 Craiova RO" tvg-logo="" group-title="Romania",Digi 24 Craiova RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/5466
-#EXTINF:-1 tvg-id="Look TV RO" tvg-name="Look Sport RO" tvg-logo="http://195.154.221.171/picons/looksport.png" group-title="Romania",Look Sport RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/791
-#EXTINF:-1 tvg-id="" tvg-name="Look Sport FHD RO" tvg-logo="" group-title="Romania",Look Sport FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74075
-#EXTINF:-1 tvg-id="" tvg-name="Look Plus RO" tvg-logo="http://195.154.221.171/picons/lookplus.png" group-title="Romania",Look Plus RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/790
-#EXTINF:-1 tvg-id="" tvg-name="Look Plus FHD RO" tvg-logo="" group-title="Romania",Look Plus FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74074
-#EXTINF:-1 tvg-id="Neptun TV RO" tvg-name="Neptun TV RO" tvg-logo="" group-title="Romania",Neptun TV RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/5467
-#EXTINF:-1 tvg-id="TVR 3 RO" tvg-name="TVR 3 RO" tvg-logo="" group-title="Romania",TVR 3 RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/25523
-#EXTINF:-1 tvg-id="" tvg-name="Trinitas RO" tvg-logo="" group-title="Romania",Trinitas RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/806
-#EXTINF:-1 tvg-id="Fishing and Hunting RO" tvg-name="Fishing & Hunting RO" tvg-logo="" group-title="Romania",Fishing & Hunting RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/786
-#EXTINF:-1 tvg-id="" tvg-name="TV5 Monde RO" tvg-logo="" group-title="Romania",TV5 Monde RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/807
-#EXTINF:-1 tvg-id="" tvg-name="Prima Cool RO" tvg-logo="" group-title="Romania",Prima Cool RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/5468
-#EXTINF:-1 tvg-id="" tvg-name="Prima Love RO" tvg-logo="" group-title="Romania",Prima Love RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/5469
-#EXTINF:-1 tvg-id="U TV RO" tvg-name="U TV RO" tvg-logo="" group-title="Romania",U TV RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/808
-#EXTINF:-1 tvg-id="" tvg-name="DTX FHD RO" tvg-logo="" group-title="Romania",DTX FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74087
-#EXTINF:-1 tvg-id="" tvg-name="Food Network HD RO" tvg-logo="" group-title="Romania",Food Network HD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/25527
-#EXTINF:-1 tvg-id="" tvg-name="Food Network FHD RO" tvg-logo="http://195.154.221.171/picons/foodnetwork.png" group-title="Romania",Food Network FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/25431
-#EXTINF:-1 tvg-id="" tvg-name="Fine Living FHD RO" tvg-logo="" group-title="Romania",Fine Living FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74096
-#EXTINF:-1 tvg-id="" tvg-name="Arcadia World FHD RO" tvg-logo="" group-title="Romania",Arcadia World FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74063
-#EXTINF:-1 tvg-id="" tvg-name="Bucuresti TV FHD RO" tvg-logo="" group-title="Romania",Bucuresti TV FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74111
-#EXTINF:-1 tvg-id="" tvg-name="Magic TV FHD RO" tvg-logo="" group-title="Romania",Magic TV FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74080
-#EXTINF:-1 tvg-id="" tvg-name="HBO 1 RO" tvg-logo="" group-title="Romania",HBO 1 RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/801
-#EXTINF:-1 tvg-id="" tvg-name="HBO 1 FHD RO" tvg-logo="" group-title="Romania",HBO 1 FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74105
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 RO" tvg-logo="" group-title="Romania",HBO 2 RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/788
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 FHD RO" tvg-logo="" group-title="Romania",HBO 2 FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74104
-#EXTINF:-1 tvg-id="HBO 3 RO" tvg-name="HBO 3 RO" tvg-logo="" group-title="Romania",HBO 3 RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/776
-#EXTINF:-1 tvg-id="" tvg-name="HBO 3 FHD RO" tvg-logo="" group-title="Romania",HBO 3 FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74103
-#EXTINF:-1 tvg-id="Cinemax RO" tvg-name="CineMax 1 RO" tvg-logo="" group-title="Romania",CineMax 1 RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/799
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax 1 FHD RO" tvg-logo="" group-title="Romania",Cinemax 1 FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74102
-#EXTINF:-1 tvg-id="" tvg-name="CineMax 2 RO" tvg-logo="" group-title="Romania",CineMax 2 RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/784
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax 2 FHD RO" tvg-logo="" group-title="Romania",Cinemax 2 FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74101
-#EXTINF:-1 tvg-id="Discovery Science RO" tvg-name="Discovery Science RO" tvg-logo="http://195.154.221.171/picons/discoveryscience.png" group-title="Romania",Discovery Science RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/25430
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science FHD RO" tvg-logo="" group-title="Romania",Discovery Science FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74093
-#EXTINF:-1 tvg-id="" tvg-name="Crime & Investigation RO" tvg-logo="" group-title="Romania",Crime & Investigation RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74094
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo Xtra FHD RO" tvg-logo="" group-title="Romania",Discovery Turbo Xtra FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74088
-#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery FHD RO" tvg-logo="" group-title="Romania",Investigation Discovery FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74095
-#EXTINF:-1 tvg-id="AMC RO" tvg-name="AMC RO" tvg-logo="http://195.154.221.171/picons/amc.png" group-title="Romania",AMC RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/25520
-#EXTINF:-1 tvg-id="Animal Planet RO" tvg-name="Animal Planet RO" tvg-logo="http://195.154.221.171/picons/animalplanet.png" group-title="Romania",Animal Planet RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/25155
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet FHD RO" tvg-logo="" group-title="Romania",Animal Planet FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74092
-#EXTINF:-1 tvg-id="" tvg-name="National 24 Plus RO" tvg-logo="" group-title="Romania",National 24 Plus RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74768
-#EXTINF:-1 tvg-id="" tvg-name="Cromtel TV HD RO" tvg-logo="" group-title="Romania",Cromtel TV HD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74767
-#EXTINF:-1 tvg-id="" tvg-name="Noroc TV HD RO" tvg-logo="" group-title="Romania",Noroc TV HD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74766
-#EXTINF:-1 tvg-id="" tvg-name="Digi 4K UHD" tvg-logo="" group-title="Romania",Digi 4K UHD
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/74061
-#EXTINF:-1 tvg-id="" tvg-name="FilmBox Premium RO" tvg-logo="" group-title="Romania",FilmBox Premium RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/77665
-#EXTINF:-1 tvg-id="" tvg-name="FilmBox Plus RO" tvg-logo="" group-title="Romania",FilmBox Plus RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/77666
-#EXTINF:-1 tvg-id="" tvg-name="FilmBox Family RO" tvg-logo="" group-title="Romania",FilmBox Family RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/77667
-#EXTINF:-1 tvg-id="" tvg-name="DocuBox RO" tvg-logo="" group-title="Romania",DocuBox RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/77668
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central RO" tvg-logo="" group-title="Romania",Comedy Central RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78231
-#EXTINF:-1 tvg-id="" tvg-name="ComedyEst RO" tvg-logo="" group-title="Romania",ComedyEst RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78232
-#EXTINF:-1 tvg-id="" tvg-name="Nicktoons RO" tvg-logo="" group-title="Romania",Nicktoons RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78233
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr. RO" tvg-logo="" group-title="Romania",Nick Jr. RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78234
-#EXTINF:-1 tvg-id="" tvg-name="JimJam RO" tvg-logo="" group-title="Romania",JimJam RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78235
-#EXTINF:-1 tvg-id="" tvg-name="Duck TV RO" tvg-logo="" group-title="Romania",Duck TV RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78236
-#EXTINF:-1 tvg-id="" tvg-name="Credo TV RO" tvg-logo="" group-title="Romania",Credo TV RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78237
-#EXTINF:-1 tvg-id="" tvg-name="Alfa & Omega RO" tvg-logo="" group-title="Romania",Alfa & Omega RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78238
-#EXTINF:-1 tvg-id="" tvg-name="Speranta Tv RO" tvg-logo="" group-title="Romania",Speranta Tv RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78239
-#EXTINF:-1 tvg-id="" tvg-name="Profit TV RO" tvg-logo="" group-title="Romania",Profit TV RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78240
-#EXTINF:-1 tvg-id="" tvg-name="Medika RO" tvg-logo="" group-title="Romania",Medika RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78241
-#EXTINF:-1 tvg-id="" tvg-name="National Cluj RO" tvg-logo="" group-title="Romania",National Cluj RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78242
-#EXTINF:-1 tvg-id="" tvg-name="Media SUD RO" tvg-logo="" group-title="Romania",Media SUD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78243
-#EXTINF:-1 tvg-id="" tvg-name="Iasi Tv Life RO" tvg-logo="" group-title="Romania",Iasi Tv Life RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78244
-#EXTINF:-1 tvg-id="" tvg-name="Traditii Tv RO" tvg-logo="" group-title="Romania",Traditii Tv RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78245
-#EXTINF:-1 tvg-id="" tvg-name="ActualitateaTv RO" tvg-logo="" group-title="Romania",ActualitateaTv RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78246
-#EXTINF:-1 tvg-id="" tvg-name="6 TV RO" tvg-logo="" group-title="Romania",6 TV RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78247
-#EXTINF:-1 tvg-id="" tvg-name="TVR Moldova RO" tvg-logo="" group-title="Romania",TVR Moldova RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78248
-#EXTINF:-1 tvg-id="" tvg-name="Intermedia Suceava RO" tvg-logo="" group-title="Romania",Intermedia Suceava RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78249
-#EXTINF:-1 tvg-id="" tvg-name="Bucovina Tv RO" tvg-logo="" group-title="Romania",Bucovina Tv RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78250
-#EXTINF:-1 tvg-id="" tvg-name="Plus Suceava RO" tvg-logo="" group-title="Romania",Plus Suceava RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78252
-#EXTINF:-1 tvg-id="" tvg-name="Nest TV SV RO" tvg-logo="" group-title="Romania",Nest TV SV RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78253
-#EXTINF:-1 tvg-id="" tvg-name="ProTv News RO" tvg-logo="" group-title="Romania",ProTv News RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78254
-#EXTINF:-1 tvg-id="" tvg-name="Tezaur TV RO" tvg-logo="" group-title="Romania",Tezaur TV RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78255
-#EXTINF:-1 tvg-id="" tvg-name="Canal 33 RO" tvg-logo="" group-title="Romania",Canal 33 RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78257
-#EXTINF:-1 tvg-id="" tvg-name="Est TV RO" tvg-logo="" group-title="Romania",Est TV RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78258
-#EXTINF:-1 tvg-id="" tvg-name="MDI TV RO" tvg-logo="" group-title="Romania",MDI TV RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78259
-#EXTINF:-1 tvg-id="" tvg-name="Ardeal TV RO" tvg-logo="" group-title="Romania",Ardeal TV RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78261
-#EXTINF:-1 tvg-id="" tvg-name="Sangeorz Tv RO" tvg-logo="" group-title="Romania",Sangeorz Tv RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78263
-#EXTINF:-1 tvg-id="" tvg-name="EuroAl Tv RO" tvg-logo="" group-title="Romania",EuroAl Tv RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78264
-#EXTINF:-1 tvg-id="" tvg-name="Tv Sud Est RO" tvg-logo="" group-title="Romania",Tv Sud Est RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78266
-#EXTINF:-1 tvg-id="" tvg-name="Hora Tv RO" tvg-logo="" group-title="Romania",Hora Tv RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78268
-#EXTINF:-1 tvg-id="" tvg-name="Cinethronix RO" tvg-logo="" group-title="Romania",Cinethronix RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78269
-#EXTINF:-1 tvg-id="" tvg-name="Auto Motor Sport RO" tvg-logo="" group-title="Romania",Auto Motor Sport RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78270
-#EXTINF:-1 tvg-id="" tvg-name="Pro Cinema RO" tvg-logo="" group-title="Romania",Pro Cinema RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78271
-#EXTINF:-1 tvg-id="" tvg-name="iConcert FHD RO" tvg-logo="" group-title="Romania",iConcert FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78272
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Showcase FHD RO" tvg-logo="" group-title="Romania",Discovery Showcase FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/78273
-#EXTINF:-1 tvg-id="" tvg-name="Kanal D FHD RO" tvg-logo="" group-title="Romania",Kanal D FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/79733
-#EXTINF:-1 tvg-id="" tvg-name="Look Sport 3 FHD RO" tvg-logo="" group-title="Romania",Look Sport 3 FHD RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/80949
-#EXTINF:-1 tvg-id="" tvg-name="Realitatea Plus RO" tvg-logo="" group-title="Romania",Realitatea Plus RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/80952
-#EXTINF:-1 tvg-id="" tvg-name="DIASPORA TV RO" tvg-logo="" group-title="Romania",DIASPORA TV RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/83508
-#EXTINF:-1 tvg-id="" tvg-name="Telestar 1 RO" tvg-logo="" group-title="Romania",Telestar 1 RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/83509
-#EXTINF:-1 tvg-id="" tvg-name="TVR Cluj RO" tvg-logo="" group-title="Romania",TVR Cluj RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/83510
-#EXTINF:-1 tvg-id="" tvg-name="TVR Craiova RO" tvg-logo="" group-title="Romania",TVR Craiova RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/83511
-#EXTINF:-1 tvg-id="" tvg-name="TVR Iasi RO" tvg-logo="" group-title="Romania",TVR Iasi RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/83512
-#EXTINF:-1 tvg-id="" tvg-name="TVR Targu Mures RO" tvg-logo="" group-title="Romania",TVR Targu Mures RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/83513
-#EXTINF:-1 tvg-id="" tvg-name="TVR Timisoara RO" tvg-logo="" group-title="Romania",TVR Timisoara RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/83514
-#EXTINF:-1 tvg-id="" tvg-name="INEDIT TV RO" tvg-logo="" group-title="Romania",INEDIT TV RO
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/83516
-#EXTINF:-1 tvg-id="CANALPlus Discovery PL" tvg-name="Canal+ Dokument FHD (ENG Commentary) PL" tvg-logo="" group-title="Poland",Canal+ Dokument FHD (ENG Commentary) PL
-http://portal.geniptv.com:8080/FQPlJzsCym/Urca3Tt1yJ/90948
+
+#EXTINF:-1,***  Romania Tv INFO ***
+http://provider-tv.xyz:8080/popescu/popescu/8224
+
+#EXTINF:-1,***  INFO UK Tv INFO ***
+http://provider-tv.xyz:8080/popescu/popescu/43380
+
+#EXTINF:-1,Digi 4 K
+http://provider-tv.xyz:8080/popescu/popescu/35093
+
+#EXTINF:-1,PRO TV SD
+http://provider-tv.xyz:8080/popescu/popescu/8029
+
+#EXTINF:-1,PRO TV FHD
+http://provider-tv.xyz:8080/popescu/popescu/8027
+
+#EXTINF:-1,PRO TV 2K
+http://provider-tv.xyz:8080/popescu/popescu/8028
+
+#EXTINF:-1,Pro TV 4K
+http://provider-tv.xyz:8080/popescu/popescu/21535
+
+#EXTINF:-1,ProTV International
+http://provider-tv.xyz:8080/popescu/popescu/41248
+
+#EXTINF:-1,ANTENA 1 SD
+http://provider-tv.xyz:8080/popescu/popescu/8038
+
+#EXTINF:-1,ANTENA 1 FHD
+http://provider-tv.xyz:8080/popescu/popescu/8037
+
+#EXTINF:-1,ANTENA 1 2K
+http://provider-tv.xyz:8080/popescu/popescu/8036
+
+#EXTINF:-1,Antena 1 4K
+http://provider-tv.xyz:8080/popescu/popescu/19393
+
+#EXTINF:-1,Antena International
+http://provider-tv.xyz:8080/popescu/popescu/41249
+
+#EXTINF:-1,KANAL D SD
+http://provider-tv.xyz:8080/popescu/popescu/8045
+
+#EXTINF:-1,KANAL D FHD
+http://provider-tv.xyz:8080/popescu/popescu/8044
+
+#EXTINF:-1,KanalD UHD
+http://provider-tv.xyz:8080/popescu/popescu/41117
+
+#EXTINF:-1,KANAL D 2K
+http://provider-tv.xyz:8080/popescu/popescu/8043
+
+#EXTINF:-1,ANTENA 3 SD
+http://provider-tv.xyz:8080/popescu/popescu/8040
+
+#EXTINF:-1,ANTENA 3 FHD
+http://provider-tv.xyz:8080/popescu/popescu/8039
+
+#EXTINF:-1,ANTENA STARS SD
+http://provider-tv.xyz:8080/popescu/popescu/8042
+
+#EXTINF:-1,ANTENA STARS FHD
+http://provider-tv.xyz:8080/popescu/popescu/8041
+
+#EXTINF:-1,PRO 2 SD
+http://provider-tv.xyz:8080/popescu/popescu/8031
+
+#EXTINF:-1,PRO 2 FHD
+http://provider-tv.xyz:8080/popescu/popescu/8030
+
+#EXTINF:-1,PRO X SD
+http://provider-tv.xyz:8080/popescu/popescu/8033
+
+#EXTINF:-1,PRO X FHD
+http://provider-tv.xyz:8080/popescu/popescu/8032
+
+#EXTINF:-1,PRO GOLD SD
+http://provider-tv.xyz:8080/popescu/popescu/8034
+
+#EXTINF:-1,PRO CINEMA SD
+http://provider-tv.xyz:8080/popescu/popescu/8035
+
+#EXTINF:-1,PRIMA TV SD
+http://provider-tv.xyz:8080/popescu/popescu/8048
+
+#EXTINF:-1,B1 TV SD
+http://provider-tv.xyz:8080/popescu/popescu/8054
+
+#EXTINF:-1,N 24 PLUS SD
+http://provider-tv.xyz:8080/popescu/popescu/8050
+
+#EXTINF:-1,DIGI 24 SD
+http://provider-tv.xyz:8080/popescu/popescu/8053
+
+#EXTINF:-1,DIGI 24 FHD
+http://provider-tv.xyz:8080/popescu/popescu/8052
+
+#EXTINF:-1,DIGI 24 2K
+http://provider-tv.xyz:8080/popescu/popescu/8051
+
+#EXTINF:-1,ROMANIA TV SD
+http://provider-tv.xyz:8080/popescu/popescu/8059
+
+#EXTINF:-1,REALITATEA TV PLUS SD
+http://provider-tv.xyz:8080/popescu/popescu/8060
+
+#EXTINF:-1,NATIONAL TV SD
+http://provider-tv.xyz:8080/popescu/popescu/8049
+
+#EXTINF:-1,TVR INTERNATIONAL SD
+http://provider-tv.xyz:8080/popescu/popescu/8207
+
+#EXTINF:-1,TVR 1 SD
+http://provider-tv.xyz:8080/popescu/popescu/8056
+
+#EXTINF:-1,TVR 2 SD
+http://provider-tv.xyz:8080/popescu/popescu/8057
+
+#EXTINF:-1,TVR 3 SD
+http://provider-tv.xyz:8080/popescu/popescu/8058
+
+#EXTINF:-1,TVR 1 FHD
+http://provider-tv.xyz:8080/popescu/popescu/8055
+
+#EXTINF:-1,*** FILME ***
+http://provider-tv.xyz:8080/popescu/popescu/8245
+
+#EXTINF:-1,Timeless Drama Channel FHD
+http://provider-tv.xyz:8080/popescu/popescu/25650
+
+#EXTINF:-1,AXN WHITE SD
+http://provider-tv.xyz:8080/popescu/popescu/8094
+
+#EXTINF:-1,AXN SPIN SD
+http://provider-tv.xyz:8080/popescu/popescu/8093
+
+#EXTINF:-1,AXN SD
+http://provider-tv.xyz:8080/popescu/popescu/8091
+
+#EXTINF:-1,AXN FHD
+http://provider-tv.xyz:8080/popescu/popescu/8090
+
+#EXTINF:-1,AXN BLACK SD
+http://provider-tv.xyz:8080/popescu/popescu/8092
+
+#EXTINF:-1,HBO FHD
+http://provider-tv.xyz:8080/popescu/popescu/8096
+
+#EXTINF:-1,HBO 2 FHD
+http://provider-tv.xyz:8080/popescu/popescu/8097
+
+#EXTINF:-1,HBO 2K
+http://provider-tv.xyz:8080/popescu/popescu/8095
+
+#EXTINF:-1,HBO 3 FHD
+http://provider-tv.xyz:8080/popescu/popescu/8098
+
+#EXTINF:-1,AMC
+http://provider-tv.xyz:8080/popescu/popescu/20208
+
+#EXTINF:-1,TV1000 SD
+http://provider-tv.xyz:8080/popescu/popescu/8115
+
+#EXTINF:-1,CINEMAX 2 SD
+http://provider-tv.xyz:8080/popescu/popescu/8102
+
+#EXTINF:-1,CINEMAX 1 FHD
+http://provider-tv.xyz:8080/popescu/popescu/8101
+
+#EXTINF:-1,FilmBox Premium
+http://provider-tv.xyz:8080/popescu/popescu/8242
+
+#EXTINF:-1,FilmBox Family
+http://provider-tv.xyz:8080/popescu/popescu/8241
+
+#EXTINF:-1,FilmBox Extra HD
+http://provider-tv.xyz:8080/popescu/popescu/8237
+
+#EXTINF:-1,FilmBox
+http://provider-tv.xyz:8080/popescu/popescu/8240
+
+#EXTINF:-1,Fight Box
+http://provider-tv.xyz:8080/popescu/popescu/8221
+
+#EXTINF:-1,CINEMARATON SD
+http://provider-tv.xyz:8080/popescu/popescu/8106
+
+#EXTINF:-1,CINEMARATON FHD
+http://provider-tv.xyz:8080/popescu/popescu/8105
+
+#EXTINF:-1,FILM NOW FHD
+http://provider-tv.xyz:8080/popescu/popescu/8100
+
+#EXTINF:-1,FILM NOW 2K
+http://provider-tv.xyz:8080/popescu/popescu/8099
+
+#EXTINF:-1,HAPPY CHANNEL SD
+http://provider-tv.xyz:8080/popescu/popescu/8047
+
+#EXTINF:-1,HAPPY CHANNEL FHD
+http://provider-tv.xyz:8080/popescu/popescu/8046
+
+#EXTINF:-1,EPIC DRAMA SD
+http://provider-tv.xyz:8080/popescu/popescu/8110
+
+#EXTINF:-1,BOLLYWOOD TV HD
+http://provider-tv.xyz:8080/popescu/popescu/8103
+
+#EXTINF:-1,FILM CAFE SD
+http://provider-tv.xyz:8080/popescu/popescu/8112
+
+#EXTINF:-1,EPIC DRAMA FHD
+http://provider-tv.xyz:8080/popescu/popescu/8109
+
+#EXTINF:-1,COMEDYEST SD
+http://provider-tv.xyz:8080/popescu/popescu/8107
+
+#EXTINF:-1,COMEDY CENTRAL SD
+http://provider-tv.xyz:8080/popescu/popescu/8104
+
+#EXTINF:-1,CINETHRONIX SD
+http://provider-tv.xyz:8080/popescu/popescu/8108
+
+#EXTINF:-1,TNT SD
+http://provider-tv.xyz:8080/popescu/popescu/8114
+
+#EXTINF:-1,TLC SD
+http://provider-tv.xyz:8080/popescu/popescu/8069
+
+#EXTINF:-1,*** SPORT ***
+http://provider-tv.xyz:8080/popescu/popescu/8247
+
+#EXTINF:-1,TELEKOM SPORT 1 FHD
+http://provider-tv.xyz:8080/popescu/popescu/8129
+
+#EXTINF:-1,TELEKOM SPORT 2 FHD
+http://provider-tv.xyz:8080/popescu/popescu/8130
+
+#EXTINF:-1,TELEKOM SPORT 3 FHD
+http://provider-tv.xyz:8080/popescu/popescu/8131
+
+#EXTINF:-1,TELEKOM SPORT 4 FHD
+http://provider-tv.xyz:8080/popescu/popescu/8132
+
+#EXTINF:-1,EUROSPORT 1 SD
+http://provider-tv.xyz:8080/popescu/popescu/8126
+
+#EXTINF:-1,EUROSPORT 1 SD (cablu)
+http://provider-tv.xyz:8080/popescu/popescu/30748
+
+#EXTINF:-1,EUROSPORT 1 FHD
+http://provider-tv.xyz:8080/popescu/popescu/8125
+
+#EXTINF:-1,EUROSPORT 1 FHD (cablu)
+http://provider-tv.xyz:8080/popescu/popescu/30749
+
+#EXTINF:-1,EUROSPORT 2 SD
+http://provider-tv.xyz:8080/popescu/popescu/8128
+
+#EXTINF:-1,EUROSPORT 2 FHD
+http://provider-tv.xyz:8080/popescu/popescu/8127
+
+#EXTINF:-1,EURO SPORT 4K
+http://provider-tv.xyz:8080/popescu/popescu/41845
+
+#EXTINF:-1,DIGI SPORT 1 SD
+http://provider-tv.xyz:8080/popescu/popescu/8118
+
+#EXTINF:-1,DIGI SPORT 1 FHD
+http://provider-tv.xyz:8080/popescu/popescu/8117
+
+#EXTINF:-1,DIGI SPORT 1 2K
+http://provider-tv.xyz:8080/popescu/popescu/8116
+
+#EXTINF:-1,DIGI SPORT 2 SD
+http://provider-tv.xyz:8080/popescu/popescu/8120
+
+#EXTINF:-1,DIGI SPORT 2 FHD
+http://provider-tv.xyz:8080/popescu/popescu/8119
+
+#EXTINF:-1,DIGI SPORT 3 SD
+http://provider-tv.xyz:8080/popescu/popescu/8122
+
+#EXTINF:-1,DIGI SPORT 3 FHD
+http://provider-tv.xyz:8080/popescu/popescu/8121
+
+#EXTINF:-1,DIGI SPORT 4 SD
+http://provider-tv.xyz:8080/popescu/popescu/8124
+
+#EXTINF:-1,DIGI SPORT 4 FHD
+http://provider-tv.xyz:8080/popescu/popescu/8123
+
+#EXTINF:-1,LOOK SPORT SD
+http://provider-tv.xyz:8080/popescu/popescu/8134
+
+#EXTINF:-1,LOOK SPORT FHD
+http://provider-tv.xyz:8080/popescu/popescu/8133
+
+#EXTINF:-1,Look Sport 2 FHD
+http://provider-tv.xyz:8080/popescu/popescu/30746
+
+#EXTINF:-1,Look Sport 3 FHD
+http://provider-tv.xyz:8080/popescu/popescu/30747
+
+#EXTINF:-1,LOOK PLUS SD
+http://provider-tv.xyz:8080/popescu/popescu/8135
+
+#EXTINF:-1,LOOK PLUS FHD
+http://provider-tv.xyz:8080/popescu/popescu/42852
+
+#EXTINF:-1,*** DESENE ANIMATE ***
+http://provider-tv.xyz:8080/popescu/popescu/8248
+
+#EXTINF:-1,DUCK TV SD
+http://provider-tv.xyz:8080/popescu/popescu/8139
+
+#EXTINF:-1,NICKTOONS SD
+http://provider-tv.xyz:8080/popescu/popescu/8144
+
+#EXTINF:-1,NICKELODEON SD
+http://provider-tv.xyz:8080/popescu/popescu/8142
+
+#EXTINF:-1,NICK JR SD
+http://provider-tv.xyz:8080/popescu/popescu/8145
+
+#EXTINF:-1,DISNEY JUNIOR SD
+http://provider-tv.xyz:8080/popescu/popescu/8138
+
+#EXTINF:-1,DISNEY CHANNEL SD
+http://provider-tv.xyz:8080/popescu/popescu/8137
+
+#EXTINF:-1,BOOMERANG SD
+http://provider-tv.xyz:8080/popescu/popescu/8143
+
+#EXTINF:-1,Nick Toons
+http://provider-tv.xyz:8080/popescu/popescu/8233
+
+#EXTINF:-1,MINIMAX SD
+http://provider-tv.xyz:8080/popescu/popescu/8141
+
+#EXTINF:-1,MEGAMAX SD
+http://provider-tv.xyz:8080/popescu/popescu/8140
+
+#EXTINF:-1,Jim Jam
+http://provider-tv.xyz:8080/popescu/popescu/8234
+
+#EXTINF:-1,CARTOON NETWORK SD
+http://provider-tv.xyz:8080/popescu/popescu/8136
+
+#EXTINF:-1,*** MUZICA ***
+http://provider-tv.xyz:8080/popescu/popescu/8249
+
+#EXTINF:-1,MAGIC TV SD
+http://provider-tv.xyz:8080/popescu/popescu/8173
+
+#EXTINF:-1,TARAF TV SD
+http://provider-tv.xyz:8080/popescu/popescu/8181
+
+#EXTINF:-1,ZU TV FHD
+http://provider-tv.xyz:8080/popescu/popescu/8170
+
+#EXTINF:-1,VH1 SD
+http://provider-tv.xyz:8080/popescu/popescu/8175
+
+#EXTINF:-1,UTV SD
+http://provider-tv.xyz:8080/popescu/popescu/8177
+
+#EXTINF:-1,UTV FHD
+http://provider-tv.xyz:8080/popescu/popescu/8176
+
+#EXTINF:-1,MUSIC CHANNEL SD
+http://provider-tv.xyz:8080/popescu/popescu/8178
+
+#EXTINF:-1,HIT MUSIC CHANNEL SD
+http://provider-tv.xyz:8080/popescu/popescu/8184
+
+#EXTINF:-1,First Music
+http://provider-tv.xyz:8080/popescu/popescu/8229
+
+#EXTINF:-1,First Music FHD
+http://provider-tv.xyz:8080/popescu/popescu/8217
+
+#EXTINF:-1,First Music 4k
+http://provider-tv.xyz:8080/popescu/popescu/8218
+
+#EXTINF:-1,VH1 Classic
+http://provider-tv.xyz:8080/popescu/popescu/8226
+
+#EXTINF:-1,BusuiocTV
+http://provider-tv.xyz:8080/popescu/popescu/8232
+
+#EXTINF:-1,MTV Europe
+http://provider-tv.xyz:8080/popescu/popescu/8214
+
+#EXTINF:-1,MTV ROCKS SD
+http://provider-tv.xyz:8080/popescu/popescu/8172
+
+#EXTINF:-1,MTV Hits
+http://provider-tv.xyz:8080/popescu/popescu/8216
+
+#EXTINF:-1,MTV Dance
+http://provider-tv.xyz:8080/popescu/popescu/8215
+
+#EXTINF:-1,Mooz RO!
+http://provider-tv.xyz:8080/popescu/popescu/8228
+
+#EXTINF:-1,Mooz Dance
+http://provider-tv.xyz:8080/popescu/popescu/8227
+
+#EXTINF:-1,MTV LIVE FHD
+http://provider-tv.xyz:8080/popescu/popescu/8171
+
+#EXTINF:-1,ROCK TV SD
+http://provider-tv.xyz:8080/popescu/popescu/8174
+
+#EXTINF:-1,MOOZ FHD
+http://provider-tv.xyz:8080/popescu/popescu/8169
+
+#EXTINF:-1,KronehitTV FHD
+http://provider-tv.xyz:8080/popescu/popescu/8238
+
+#EXTINF:-1,KISS TV SD
+http://provider-tv.xyz:8080/popescu/popescu/8179
+
+#EXTINF:-1,HORA TV SD
+http://provider-tv.xyz:8080/popescu/popescu/8180
+
+#EXTINF:-1,FAVORIT TV SD
+http://provider-tv.xyz:8080/popescu/popescu/8182
+
+#EXTINF:-1,ETNO TV SD
+http://provider-tv.xyz:8080/popescu/popescu/8183
+
+#EXTINF:-1,BBC EARTH FHD
+http://provider-tv.xyz:8080/popescu/popescu/19390
+
+#EXTINF:-1,VIASAT NATURE FHD
+http://provider-tv.xyz:8080/popescu/popescu/8166
+
+#EXTINF:-1,ARCADIA WORLD FHD
+http://provider-tv.xyz:8080/popescu/popescu/38768
+
+#EXTINF:-1,VIASAT HISTORY SD
+http://provider-tv.xyz:8080/popescu/popescu/8165
+
+#EXTINF:-1,VIASAT HISTORY FHD
+http://provider-tv.xyz:8080/popescu/popescu/8164
+
+#EXTINF:-1,VIASAT EXPLORE SD
+http://provider-tv.xyz:8080/popescu/popescu/8167
+
+#EXTINF:-1,HISTORY CHANNEL FHD
+http://provider-tv.xyz:8080/popescu/popescu/8168
+
+#EXTINF:-1,NATIONAL GEOGRAPHIC SD
+http://provider-tv.xyz:8080/popescu/popescu/8154
+
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD
+http://provider-tv.xyz:8080/popescu/popescu/8153
+
+#EXTINF:-1,DTX
+http://provider-tv.xyz:8080/popescu/popescu/8222
+
+#EXTINF:-1,CNN
+http://provider-tv.xyz:8080/popescu/popescu/8225
+
+#EXTINF:-1,Travel MIX FHD
+http://provider-tv.xyz:8080/popescu/popescu/8239
+
+#EXTINF:-1,Home and Garden TV HD
+http://provider-tv.xyz:8080/popescu/popescu/41637
+
+#EXTINF:-1,FINE LIVING
+http://provider-tv.xyz:8080/popescu/popescu/8243
+
+#EXTINF:-1,NAT GEO WILD SD
+http://provider-tv.xyz:8080/popescu/popescu/8156
+
+#EXTINF:-1,Crime & Investigation
+http://provider-tv.xyz:8080/popescu/popescu/8223
+
+#EXTINF:-1,NAT GEO WILD FHD
+http://provider-tv.xyz:8080/popescu/popescu/8155
+
+#EXTINF:-1,E! ENTERTAINMENT SD
+http://provider-tv.xyz:8080/popescu/popescu/8084
+
+#EXTINF:-1,E! ENTERTAINMENT FHD
+http://provider-tv.xyz:8080/popescu/popescu/8083
+
+#EXTINF:-1,DISCOVERY TURBO XTRA FHD
+http://provider-tv.xyz:8080/popescu/popescu/8159
+
+#EXTINF:-1,DISCOVERY SHOWCASE FHD
+http://provider-tv.xyz:8080/popescu/popescu/8158
+
+#EXTINF:-1,DISCOVERY SCIENCE FHD
+http://provider-tv.xyz:8080/popescu/popescu/8160
+
+#EXTINF:-1,DISCOVERY CHANNEL SD
+http://provider-tv.xyz:8080/popescu/popescu/8157
+
+#EXTINF:-1,TRAVEL MIX SD
+http://provider-tv.xyz:8080/popescu/popescu/8087
+
+#EXTINF:-1,TRAVEL CHANNEL SD
+http://provider-tv.xyz:8080/popescu/popescu/8086
+
+#EXTINF:-1,CBS Reality
+http://provider-tv.xyz:8080/popescu/popescu/20207
+
+#EXTINF:-1,TRAVEL CHANNEL FHD
+http://provider-tv.xyz:8080/popescu/popescu/8085
+
+#EXTINF:-1,INVESTIGATION DISCOVERY FHD
+http://provider-tv.xyz:8080/popescu/popescu/8161
+
+#EXTINF:-1,FISHING AND HUNTING SD
+http://provider-tv.xyz:8080/popescu/popescu/8163
+
+#EXTINF:-1,DIGI LIFE SD
+http://provider-tv.xyz:8080/popescu/popescu/8150
+
+#EXTINF:-1,FASHION TV SD
+http://provider-tv.xyz:8080/popescu/popescu/8068
+
+#EXTINF:-1,DIGI WORLD SD
+http://provider-tv.xyz:8080/popescu/popescu/8148
+
+#EXTINF:-1,DIGI WORLD FHD
+http://provider-tv.xyz:8080/popescu/popescu/8147
+
+#EXTINF:-1,DIVA CHANNEL SD
+http://provider-tv.xyz:8080/popescu/popescu/8111
+
+#EXTINF:-1,BBC EARTH SD
+http://provider-tv.xyz:8080/popescu/popescu/8162
+
+#EXTINF:-1,ANIMAL PLANET FHD
+http://provider-tv.xyz:8080/popescu/popescu/8146
+
+#EXTINF:-1,DIGI LIFE FHD
+http://provider-tv.xyz:8080/popescu/popescu/8149
+
+#EXTINF:-1,DIGI ANIMAL WORLD SD
+http://provider-tv.xyz:8080/popescu/popescu/8152
+
+#EXTINF:-1,DIGI ANIMAL WORLD FHD
+http://provider-tv.xyz:8080/popescu/popescu/8151
+
+#EXTINF:-1,DA VINCI LEARNING SD
+http://provider-tv.xyz:8080/popescu/popescu/8067
+
+#EXTINF:-1,PARAMOUNT CHANNEL SD
+http://provider-tv.xyz:8080/popescu/popescu/8113
+
+#EXTINF:-1,*** Canale 24/7 ***
+http://provider-tv.xyz:8080/popescu/popescu/8244
+
+#EXTINF:-1,Mega Action+
+http://provider-tv.xyz:8080/popescu/popescu/34943
+
+#EXTINF:-1,Mega Comedy
+http://provider-tv.xyz:8080/popescu/popescu/34944
+
+#EXTINF:-1,Mega Masha si Ursul
+http://provider-tv.xyz:8080/popescu/popescu/34946
+
+#EXTINF:-1,MEGA MASHA SI URSUL FHD
+http://provider-tv.xyz:8080/popescu/popescu/34965
+
+#EXTINF:-1,Mega Peppa Pig (ENG)
+http://provider-tv.xyz:8080/popescu/popescu/42850
+
+#EXTINF:-1,MEGA TOM & JERRY
+http://provider-tv.xyz:8080/popescu/popescu/34966
+
+#EXTINF:-1,Mega Kids
+http://provider-tv.xyz:8080/popescu/popescu/34945
+
+#EXTINF:-1,Mega Joke Battle
+http://provider-tv.xyz:8080/popescu/popescu/34948
+
+#EXTINF:-1,Mega RELAX
+http://provider-tv.xyz:8080/popescu/popescu/40752
+
+#EXTINF:-1,Prime Animatie
+http://provider-tv.xyz:8080/popescu/popescu/39075
+
+#EXTINF:-1,Prime Kids
+http://provider-tv.xyz:8080/popescu/popescu/39156
+
+#EXTINF:-1,Prime Kids Germana
+http://provider-tv.xyz:8080/popescu/popescu/40939
+
+#EXTINF:-1,Prime Gasca Zurli
+http://provider-tv.xyz:8080/popescu/popescu/39852
+
+#EXTINF:-1,Prime Asia Express
+http://provider-tv.xyz:8080/popescu/popescu/39853
+
+#EXTINF:-1,Prime Cinema
+http://provider-tv.xyz:8080/popescu/popescu/39160
+
+#EXTINF:-1,Prime Sci-fi
+http://provider-tv.xyz:8080/popescu/popescu/39157
+
+#EXTINF:-1,Prime Actiune
+http://provider-tv.xyz:8080/popescu/popescu/39153
+
+#EXTINF:-1,Prime Aventura
+http://provider-tv.xyz:8080/popescu/popescu/39161
+
+#EXTINF:-1,Prime Comedie
+http://provider-tv.xyz:8080/popescu/popescu/39152
+
+#EXTINF:-1,Prime History
+http://provider-tv.xyz:8080/popescu/popescu/39159
+
+#EXTINF:-1,Prime Bollywod
+http://provider-tv.xyz:8080/popescu/popescu/39158
+
+#EXTINF:-1,Prime Horror
+http://provider-tv.xyz:8080/popescu/popescu/39155
+
+#EXTINF:-1,Prime Latino
+http://provider-tv.xyz:8080/popescu/popescu/39154
+
+#EXTINF:-1,Prime Survivor Romania
+http://provider-tv.xyz:8080/popescu/popescu/39851
+
+#EXTINF:-1,Prime Culinar
+http://provider-tv.xyz:8080/popescu/popescu/35842
+
+#EXTINF:-1,LIDAS ACCTION HD
+http://provider-tv.xyz:8080/popescu/popescu/42814
+
+#EXTINF:-1,LIDAS PARTYS HD
+http://provider-tv.xyz:8080/popescu/popescu/42815
+
+#EXTINF:-1,LIDAS FILM HD
+http://provider-tv.xyz:8080/popescu/popescu/42816
+
+#EXTINF:-1,LIDAS FILM ZONE HD
+http://provider-tv.xyz:8080/popescu/popescu/42817
+
+#EXTINF:-1,LIDAS MOVIE SMART HD
+http://provider-tv.xyz:8080/popescu/popescu/42818
+
+#EXTINF:-1,LIDAS CLASSIC FILM HD
+http://provider-tv.xyz:8080/popescu/popescu/42819
+
+#EXTINF:-1,LIDAS GOLD FILM HD
+http://provider-tv.xyz:8080/popescu/popescu/42820
+
+#EXTINF:-1,LIDAS CINEMA + HD
+http://provider-tv.xyz:8080/popescu/popescu/42822
+
+#EXTINF:-1,LIDAS CINESTAR HD
+http://provider-tv.xyz:8080/popescu/popescu/42823
+
+#EXTINF:-1,LIDAS FAMILY HD
+http://provider-tv.xyz:8080/popescu/popescu/42824
+
+#EXTINF:-1,LIDAS PREMIERE HD
+http://provider-tv.xyz:8080/popescu/popescu/42825
+
+#EXTINF:-1,LIDAS BOLLYWOOD HD
+http://provider-tv.xyz:8080/popescu/popescu/42826
+
+#EXTINF:-1,LIDAS BOLLYWOOD 2 HD
+http://provider-tv.xyz:8080/popescu/popescu/42827
+
+#EXTINF:-1,LIDAS DOCUMENTARY HD
+http://provider-tv.xyz:8080/popescu/popescu/42828
+
+#EXTINF:-1,LIDAS HITS HD
+http://provider-tv.xyz:8080/popescu/popescu/42829
+
+#EXTINF:-1,LIDAS CUBAYO HD
+http://provider-tv.xyz:8080/popescu/popescu/42830
+
+#EXTINF:-1,LIDAS MIX HD
+http://provider-tv.xyz:8080/popescu/popescu/42831
+
+#EXTINF:-1,LIDAS TRADITIONAL HD
+http://provider-tv.xyz:8080/popescu/popescu/42832
+
+#EXTINF:-1,LIDAS BALKAN HD
+http://provider-tv.xyz:8080/popescu/popescu/42833
+
+#EXTINF:-1,LIDAS KIDS HD
+http://provider-tv.xyz:8080/popescu/popescu/42834
+
+#EXTINF:-1,LIDAS KIDS MUSIC HD
+http://provider-tv.xyz:8080/popescu/popescu/42835
+
+#EXTINF:-1,LIDAS AMOREYO HD
+http://provider-tv.xyz:8080/popescu/popescu/42848
+
+#EXTINF:-1,Lidas TV HD
+http://provider-tv.xyz:8080/popescu/popescu/42849
+
+#EXTINF:-1,1M Las Fierbinti
+http://provider-tv.xyz:8080/popescu/popescu/39858
+
+#EXTINF:-1,1M Chefi La Cutite
+http://provider-tv.xyz:8080/popescu/popescu/40749
+
+#EXTINF:-1,1M Clasicii Comediei
+http://provider-tv.xyz:8080/popescu/popescu/40748
+
+#EXTINF:-1,1M Comedie
+http://provider-tv.xyz:8080/popescu/popescu/39146
+
+#EXTINF:-1,1M Comando
+http://provider-tv.xyz:8080/popescu/popescu/39857
+
+#EXTINF:-1,1M Aventura Fantezie
+http://provider-tv.xyz:8080/popescu/popescu/39147
+
+#EXTINF:-1,1M Actiune
+http://provider-tv.xyz:8080/popescu/popescu/39855
+
+#EXTINF:-1,1M Premiera
+http://provider-tv.xyz:8080/popescu/popescu/39148
+
+#EXTINF:-1,1M BalkanOrient
+http://provider-tv.xyz:8080/popescu/popescu/39149
+
+#EXTINF:-1,1M Sci-fi
+http://provider-tv.xyz:8080/popescu/popescu/39150
+
+#EXTINF:-1,1M Horror
+http://provider-tv.xyz:8080/popescu/popescu/39856
+
+#EXTINF:-1,1M Cinema Romania
+http://provider-tv.xyz:8080/popescu/popescu/39151
+
+#EXTINF:-1,1M Mistere Nerezolvate
+http://provider-tv.xyz:8080/popescu/popescu/40750
+
+#EXTINF:-1,1M Copii Domnului
+http://provider-tv.xyz:8080/popescu/popescu/40753
+
+#EXTINF:-1,OpenTv Las Fierbinti
+http://provider-tv.xyz:8080/popescu/popescu/40754
+
+#EXTINF:-1,OpenTv Thriller
+http://provider-tv.xyz:8080/popescu/popescu/40755
+
+#EXTINF:-1,OpenTv Comedy
+http://provider-tv.xyz:8080/popescu/popescu/40756
+
+#EXTINF:-1,OpenTv Actiune
+http://provider-tv.xyz:8080/popescu/popescu/40757
+
+#EXTINF:-1,OpenTv Aventure
+http://provider-tv.xyz:8080/popescu/popescu/40758
+
+#EXTINF:-1,OpenTv Premiere 2019
+http://provider-tv.xyz:8080/popescu/popescu/40759
+
+#EXTINF:-1,OpenTv New Romanian Music
+http://provider-tv.xyz:8080/popescu/popescu/40760
+
+#EXTINF:-1,OpenTv Premiere 2020
+http://provider-tv.xyz:8080/popescu/popescu/40761
+
+#EXTINF:-1,OpenTv Booba Kids
+http://provider-tv.xyz:8080/popescu/popescu/40762
+
+#EXTINF:-1,OpenTv Fantasy
+http://provider-tv.xyz:8080/popescu/popescu/40763
+
+#EXTINF:-1,OpenTv Baieti de Oras
+http://provider-tv.xyz:8080/popescu/popescu/40771
+
+#EXTINF:-1,OpenTv Pescaresti
+http://provider-tv.xyz:8080/popescu/popescu/40772
+
+#EXTINF:-1,OpenTv Bollywood
+http://provider-tv.xyz:8080/popescu/popescu/40773
+
+#EXTINF:-1,AnumeTv Super Eroi
+http://provider-tv.xyz:8080/popescu/popescu/40765
+
+#EXTINF:-1,AnumeTv Top 100
+http://provider-tv.xyz:8080/popescu/popescu/40766
+
+#EXTINF:-1,AnumeTv Filme Dublate
+http://provider-tv.xyz:8080/popescu/popescu/40767
+
+#EXTINF:-1,AnumeTv Manele
+http://provider-tv.xyz:8080/popescu/popescu/40768
+
+#EXTINF:-1,AnumeTv Comedie Romaneasca
+http://provider-tv.xyz:8080/popescu/popescu/40769
+
+#EXTINF:-1,AnumeTV Romania Te Iubesc
+http://provider-tv.xyz:8080/popescu/popescu/40770
+
+#EXTINF:-1,EVO Drama Full HD
+http://provider-tv.xyz:8080/popescu/popescu/42728
+
+#EXTINF:-1,EVO Kids
+http://provider-tv.xyz:8080/popescu/popescu/42729
+
+#EXTINF:-1,EVO Adventure Full HD
+http://provider-tv.xyz:8080/popescu/popescu/42730
+
+#EXTINF:-1,EVO Filme Arte Martiale
+http://provider-tv.xyz:8080/popescu/popescu/42731
+
+#EXTINF:-1,EVO Action 1 Full HD
+http://provider-tv.xyz:8080/popescu/popescu/42732
+
+#EXTINF:-1,EVO Comedy 1 Full HD
+http://provider-tv.xyz:8080/popescu/popescu/42733
+
+#EXTINF:-1,EVO Horror 1 Full HD
+http://provider-tv.xyz:8080/popescu/popescu/42734
+
+#EXTINF:-1,EVO Science Fiction FHD
+http://provider-tv.xyz:8080/popescu/popescu/42735
+
+#EXTINF:-1,EVO iUmor Sezon 8
+http://provider-tv.xyz:8080/popescu/popescu/42736
+
+#EXTINF:-1,EVO Action 2 Full HD
+http://provider-tv.xyz:8080/popescu/popescu/42737
+
+#EXTINF:-1,EVO Action 3 Full HD
+http://provider-tv.xyz:8080/popescu/popescu/42738
+
+#EXTINF:-1,EVO Comedy 2 Full HD
+http://provider-tv.xyz:8080/popescu/popescu/42739
+
+#EXTINF:-1,EVO Comedy 3 Full HD
+http://provider-tv.xyz:8080/popescu/popescu/42740
+
+#EXTINF:-1,EVO Horror 2 Full HD
+http://provider-tv.xyz:8080/popescu/popescu/42741
+
+#EXTINF:-1,EVO Horror 3 Full HD
+http://provider-tv.xyz:8080/popescu/popescu/42742
+
+#EXTINF:-1,EVO Basme pt Copii
+http://provider-tv.xyz:8080/popescu/popescu/42743
+
+#EXTINF:-1,EVO Bollywood
+http://provider-tv.xyz:8080/popescu/popescu/42744
+
+#EXTINF:-1,EVO Filme Romanesti
+http://provider-tv.xyz:8080/popescu/popescu/42745
+
+#EXTINF:-1,EVO Cinema 1 4K
+http://provider-tv.xyz:8080/popescu/popescu/42747
+
+#EXTINF:-1,EVO Cinema 2 4K
+http://provider-tv.xyz:8080/popescu/popescu/42748
+
+#EXTINF:-1,EVO Cinema 3 4K
+http://provider-tv.xyz:8080/popescu/popescu/42749
+
+#EXTINF:-1,EVO Cinema 4 4K
+http://provider-tv.xyz:8080/popescu/popescu/42750
+
+#EXTINF:-1,EVO Cinema 5 4K
+http://provider-tv.xyz:8080/popescu/popescu/42751
+
+#EXTINF:-1,EVO Cinema 6 4K
+http://provider-tv.xyz:8080/popescu/popescu/42752
+
+#EXTINF:-1,EVO Cinema 7 4K
+http://provider-tv.xyz:8080/popescu/popescu/42753
+
+#EXTINF:-1,EVO Cinema 8 4K
+http://provider-tv.xyz:8080/popescu/popescu/42754
+
+#EXTINF:-1,EVO Mr. Bean 24/7
+http://provider-tv.xyz:8080/popescu/popescu/42756
+
+#EXTINF:-1,Netflix Action
+http://provider-tv.xyz:8080/popescu/popescu/42757
+
+#EXTINF:-1,Netflix Comedy
+http://provider-tv.xyz:8080/popescu/popescu/42758
+
+#EXTINF:-1,Netflix Thriller
+http://provider-tv.xyz:8080/popescu/popescu/42759
+
+#EXTINF:-1,HBO Sci-Fi
+http://provider-tv.xyz:8080/popescu/popescu/42762
+
+#EXTINF:-1,HBO Aventura
+http://provider-tv.xyz:8080/popescu/popescu/42763
+
+#EXTINF:-1,HBO Horror
+http://provider-tv.xyz:8080/popescu/popescu/42764
+
+#EXTINF:-1,HBO Comedie
+http://provider-tv.xyz:8080/popescu/popescu/42765
+
+#EXTINF:-1,HBO Actiune
+http://provider-tv.xyz:8080/popescu/popescu/42766
+
+#EXTINF:-1,SUPER Actiune FHD
+http://provider-tv.xyz:8080/popescu/popescu/42767
+
+#EXTINF:-1,SUPER Comedy FHD
+http://provider-tv.xyz:8080/popescu/popescu/42768
+
+#EXTINF:-1,SUPER Horror FHD
+http://provider-tv.xyz:8080/popescu/popescu/42769
+
+#EXTINF:-1,SUPER Drama FHD
+http://provider-tv.xyz:8080/popescu/popescu/42770
+
+#EXTINF:-1,SUPER Sci-FI FHD
+http://provider-tv.xyz:8080/popescu/popescu/42771
+
+#EXTINF:-1,SUPER Bollywood FHD
+http://provider-tv.xyz:8080/popescu/popescu/42772
+
+#EXTINF:-1,SUPER #Premiere FHD
+http://provider-tv.xyz:8080/popescu/popescu/42773
+
+#EXTINF:-1,SUPER Kids FHD
+http://provider-tv.xyz:8080/popescu/popescu/42774
+
+#EXTINF:-1,SUPER 4K FHD
+http://provider-tv.xyz:8080/popescu/popescu/42775
+
+#EXTINF:-1,SUPER Karate FHD
+http://provider-tv.xyz:8080/popescu/popescu/42776
+
+#EXTINF:-1,Popcorn Time Action
+http://provider-tv.xyz:8080/popescu/popescu/42778
+
+#EXTINF:-1,Popcorn Time Comedy
+http://provider-tv.xyz:8080/popescu/popescu/42779
+
+#EXTINF:-1,Popcorn Time Horror
+http://provider-tv.xyz:8080/popescu/popescu/42780
+
+#EXTINF:-1,Popcorn Time Drama
+http://provider-tv.xyz:8080/popescu/popescu/42781
+
+#EXTINF:-1,Popcorn Time SCI-FI
+http://provider-tv.xyz:8080/popescu/popescu/42782
+
+#EXTINF:-1,Popcorn Time Bollywood
+http://provider-tv.xyz:8080/popescu/popescu/42783
+
+#EXTINF:-1,Popcorn Time Cartoons
+http://provider-tv.xyz:8080/popescu/popescu/42785
+
+#EXTINF:-1,Popcorn Time 4K
+http://provider-tv.xyz:8080/popescu/popescu/42786
+
+#EXTINF:-1,Popcorn Time Fight!
+http://provider-tv.xyz:8080/popescu/popescu/42787
+
+#EXTINF:-1,DIGI SAT Actiune
+http://provider-tv.xyz:8080/popescu/popescu/42789
+
+#EXTINF:-1,DIGI SAT Comedie
+http://provider-tv.xyz:8080/popescu/popescu/42790
+
+#EXTINF:-1,DIGI SAT Aventura
+http://provider-tv.xyz:8080/popescu/popescu/42791
+
+#EXTINF:-1,DIGI SAT Horror
+http://provider-tv.xyz:8080/popescu/popescu/42792
+
+#EXTINF:-1,DIGI SAT Bollywood
+http://provider-tv.xyz:8080/popescu/popescu/42793
+
+#EXTINF:-1,DIGI SAT Sci-Fi
+http://provider-tv.xyz:8080/popescu/popescu/42794
+
+#EXTINF:-1,DIGI SAT Karate
+http://provider-tv.xyz:8080/popescu/popescu/42795
+
+#EXTINF:-1,EVO Arnold Schwarzenegger 24/7
+http://provider-tv.xyz:8080/popescu/popescu/42797
+
+#EXTINF:-1,EVO Harrison Ford 24/7
+http://provider-tv.xyz:8080/popescu/popescu/42798
+
+#EXTINF:-1,EVO Keanu Reeves 24/7
+http://provider-tv.xyz:8080/popescu/popescu/42799
+
+#EXTINF:-1,24/7 Latino
+http://provider-tv.xyz:8080/popescu/popescu/40899
+
+#EXTINF:-1,24/7 Romania Top Hits
+http://provider-tv.xyz:8080/popescu/popescu/40900
+
+#EXTINF:-1,24/7 Muzica Populara
+http://provider-tv.xyz:8080/popescu/popescu/40901
+
+#EXTINF:-1,24/7 Documentare
+http://provider-tv.xyz:8080/popescu/popescu/40902
+
+#EXTINF:-1,24/7 CINEMA 2020
+http://provider-tv.xyz:8080/popescu/popescu/40903
+
+#EXTINF:-1,24/7 Inima de Tigan
+http://provider-tv.xyz:8080/popescu/popescu/40904
+
+#EXTINF:-1,24/7 Regina
+http://provider-tv.xyz:8080/popescu/popescu/40905
+
+#EXTINF:-1,24/7 State de Romania
+http://provider-tv.xyz:8080/popescu/popescu/40906
+
+#EXTINF:-1,24/7 Atletico Textila
+http://provider-tv.xyz:8080/popescu/popescu/40907
+
+#EXTINF:-1,24/7 Videoteca Vesela
+http://provider-tv.xyz:8080/popescu/popescu/40908
+
+#EXTINF:-1,24/7 Cinema 4k
+http://provider-tv.xyz:8080/popescu/popescu/40909
+
+#EXTINF:-1,24/7 BoxOffice
+http://provider-tv.xyz:8080/popescu/popescu/40910
+
+#EXTINF:-1,24/7 Spionaj
+http://provider-tv.xyz:8080/popescu/popescu/40911
+
+#EXTINF:-1,24/7 Trilogy
+http://provider-tv.xyz:8080/popescu/popescu/40912
+
+#EXTINF:-1,24/7 Mystery
+http://provider-tv.xyz:8080/popescu/popescu/40913
+
+#EXTINF:-1,24/7 Western
+http://provider-tv.xyz:8080/popescu/popescu/40914
+
+#EXTINF:-1,24/7 Religie
+http://provider-tv.xyz:8080/popescu/popescu/40915
+
+#EXTINF:-1,24/7 ACTIUNE
+http://provider-tv.xyz:8080/popescu/popescu/40916
+
+#EXTINF:-1,24/7 Romantic
+http://provider-tv.xyz:8080/popescu/popescu/40917
+
+#EXTINF:-1,24/7 Comedie Clasica
+http://provider-tv.xyz:8080/popescu/popescu/40918
+
+#EXTINF:-1,24/7 Arte Martiale
+http://provider-tv.xyz:8080/popescu/popescu/40919
+
+#EXTINF:-1,24/7 Horror
+http://provider-tv.xyz:8080/popescu/popescu/40920
+
+#EXTINF:-1,24/7 Filme din Copilarie
+http://provider-tv.xyz:8080/popescu/popescu/40921
+
+#EXTINF:-1,24/7 Cine DE Colectie
+http://provider-tv.xyz:8080/popescu/popescu/40922
+
+#EXTINF:-1,24/7 Bollywood
+http://provider-tv.xyz:8080/popescu/popescu/40923
+
+#EXTINF:-1,24/7 Las Fierbinti
+http://provider-tv.xyz:8080/popescu/popescu/40924
+
+#EXTINF:-1,24/7 Walt Disney
+http://provider-tv.xyz:8080/popescu/popescu/40925
+
+#EXTINF:-1,24/7 Tom&Jerry
+http://provider-tv.xyz:8080/popescu/popescu/40927
+
+#EXTINF:-1,24/7 Kids Disney
+http://provider-tv.xyz:8080/popescu/popescu/40928
+
+#EXTINF:-1,24/7 Stand-up Comedy
+http://provider-tv.xyz:8080/popescu/popescu/40929
+
+#EXTINF:-1,24/7 Divertisment
+http://provider-tv.xyz:8080/popescu/popescu/40930
+
+#EXTINF:-1,24/7 Vikings
+http://provider-tv.xyz:8080/popescu/popescu/40931
+
+#EXTINF:-1,24/7 Peaky Blinders
+http://provider-tv.xyz:8080/popescu/popescu/40932
+
+#EXTINF:-1,24/7 Prison Break
+http://provider-tv.xyz:8080/popescu/popescu/40933
+
+#EXTINF:-1,24/7 Game of Thrones
+http://provider-tv.xyz:8080/popescu/popescu/40934
+
+#EXTINF:-1,24/7 Mini Serii
+http://provider-tv.xyz:8080/popescu/popescu/40935
+
+#EXTINF:-1,24/7 El Chapo
+http://provider-tv.xyz:8080/popescu/popescu/40936
+
+#EXTINF:-1,24/7 Narcos
+http://provider-tv.xyz:8080/popescu/popescu/40937
+
+#EXTINF:-1,CineMovie Sacrificiul
+http://provider-tv.xyz:8080/popescu/popescu/19320
+
+#EXTINF:-1,CineMovies CineDeColectie
+http://provider-tv.xyz:8080/popescu/popescu/19318
+
+#EXTINF:-1,Cinema Kids-Dublat
+http://provider-tv.xyz:8080/popescu/popescu/35160
+
+#EXTINF:-1,Cinema Thirller
+http://provider-tv.xyz:8080/popescu/popescu/35161
+
+#EXTINF:-1,Cinema Aventura
+http://provider-tv.xyz:8080/popescu/popescu/35162
+
+#EXTINF:-1,Cinema Actiune
+http://provider-tv.xyz:8080/popescu/popescu/35163
+
+#EXTINF:-1,Cinema Comedie
+http://provider-tv.xyz:8080/popescu/popescu/35164
+
+#EXTINF:-1,Cinema TRUE 4K
+http://provider-tv.xyz:8080/popescu/popescu/39854
+
+#EXTINF:-1,Cinema Fiction
+http://provider-tv.xyz:8080/popescu/popescu/35165
+
+#EXTINF:-1,Cinema Drama
+http://provider-tv.xyz:8080/popescu/popescu/35166
+
+#EXTINF:-1,Cinema Crime
+http://provider-tv.xyz:8080/popescu/popescu/35167
+
+#EXTINF:-1,Cinema Premiere 2020
+http://provider-tv.xyz:8080/popescu/popescu/35168
+
+#EXTINF:-1,SkynetTV Jean-Claude Van Damme
+http://provider-tv.xyz:8080/popescu/popescu/39053
+
+#EXTINF:-1,SkynetTV History
+http://provider-tv.xyz:8080/popescu/popescu/37907
+
+#EXTINF:-1,SkynetTv Movies Box
+http://provider-tv.xyz:8080/popescu/popescu/35835
+
+#EXTINF:-1,SkynetTv Western
+http://provider-tv.xyz:8080/popescu/popescu/35522
+
+#EXTINF:-1,SkynetTv Romantic
+http://provider-tv.xyz:8080/popescu/popescu/35836
+
+#EXTINF:-1,SkynetTv Legendary
+http://provider-tv.xyz:8080/popescu/popescu/35092
+
+#EXTINF:-1,SkynetTv Game of Thrones
+http://provider-tv.xyz:8080/popescu/popescu/35088
+
+#EXTINF:-1,SkynetTv Filme Religioase
+http://provider-tv.xyz:8080/popescu/popescu/35090
+
+#EXTINF:-1,SkynetTV VLAD Sez. 3
+http://provider-tv.xyz:8080/popescu/popescu/34447
+
+#EXTINF:-1,Skynet iUmor
+http://provider-tv.xyz:8080/popescu/popescu/27578
+
+#EXTINF:-1,Skynet Copii
+http://provider-tv.xyz:8080/popescu/popescu/27579
+
+#EXTINF:-1,Skynet Las Fierbinti S01-S04
+http://provider-tv.xyz:8080/popescu/popescu/27580
+
+#EXTINF:-1,SkynetTV Las Fierbinti sez.8 - sez.11
+http://provider-tv.xyz:8080/popescu/popescu/25652
+
+#EXTINF:-1,SkynetTV Arte Martiale
+http://provider-tv.xyz:8080/popescu/popescu/21527
+
+#EXTINF:-1,SkynetTV X-Factor
+http://provider-tv.xyz:8080/popescu/popescu/25653
+
+#EXTINF:-1,SkynetTV Bollywood
+http://provider-tv.xyz:8080/popescu/popescu/25028
+
+#EXTINF:-1,SkynetTv Romanii au Talent 2020
+http://provider-tv.xyz:8080/popescu/popescu/34884
+
+#EXTINF:-1,SkynetTv Romanii au Talent
+http://provider-tv.xyz:8080/popescu/popescu/21531
+
+#EXTINF:-1,SkynetTV Actiune
+http://provider-tv.xyz:8080/popescu/popescu/21486
+
+#EXTINF:-1,SkynetTV Aventura
+http://provider-tv.xyz:8080/popescu/popescu/21343
+
+#EXTINF:-1,Simply Net Booba
+http://provider-tv.xyz:8080/popescu/popescu/19310
+
+#EXTINF:-1,Simply Net Jet Li & Bruce Lee
+http://provider-tv.xyz:8080/popescu/popescu/19311
+
+#EXTINF:-1,Simply Net Van Damme
+http://provider-tv.xyz:8080/popescu/popescu/7844
+
+#EXTINF:-1,Simply Net Fiction
+http://provider-tv.xyz:8080/popescu/popescu/7847
+
+#EXTINF:-1,Simply Net Las Firebinti
+http://provider-tv.xyz:8080/popescu/popescu/7846
+
+#EXTINF:-1,Simply Net Kung Fu
+http://provider-tv.xyz:8080/popescu/popescu/7842
+
+#EXTINF:-1,Simply Net Animatie
+http://provider-tv.xyz:8080/popescu/popescu/7837
+
+#EXTINF:-1,Simply Net Iumor
+http://provider-tv.xyz:8080/popescu/popescu/7845
+
+#EXTINF:-1,Simply Net History
+http://provider-tv.xyz:8080/popescu/popescu/7838
+
+#EXTINF:-1,Simply Net Comedie
+http://provider-tv.xyz:8080/popescu/popescu/7843
+
+#EXTINF:-1,Simply Net Cinema
+http://provider-tv.xyz:8080/popescu/popescu/7840
+
+#EXTINF:-1,Simply Net Bollywod
+http://provider-tv.xyz:8080/popescu/popescu/7839
+
+#EXTINF:-1,Simply Net Actiune
+http://provider-tv.xyz:8080/popescu/popescu/7836
+
+#EXTINF:-1,Simply Net 4k
+http://provider-tv.xyz:8080/popescu/popescu/7841
+
+#EXTINF:-1,Simply Net Horror
+http://provider-tv.xyz:8080/popescu/popescu/19307
+
+#EXTINF:-1,Simply Net Filme Romanesti
+http://provider-tv.xyz:8080/popescu/popescu/19308
+
+#EXTINF:-1,Simply Net Muzica De Ascultare
+http://provider-tv.xyz:8080/popescu/popescu/19309
+
+#EXTINF:-1,Simply Net Thriler
+http://provider-tv.xyz:8080/popescu/popescu/19313
+
+#EXTINF:-1,Simply Net Jackie Chan & Donnie Yen
+http://provider-tv.xyz:8080/popescu/popescu/19314
+
+#EXTINF:-1,Simply Net Western
+http://provider-tv.xyz:8080/popescu/popescu/21344
+
+#EXTINF:-1,Dibi TV Manele
+http://provider-tv.xyz:8080/popescu/popescu/20700
+
+#EXTINF:-1,#### HDNET #####
+http://provider-tv.xyz:8080/popescu/popescu/19396
+
+#EXTINF:-1,HDNet Action
+http://provider-tv.xyz:8080/popescu/popescu/19397
+
+#EXTINF:-1,HDNet Thriller
+http://provider-tv.xyz:8080/popescu/popescu/19400
+
+#EXTINF:-1,HDNet Sci-Fi
+http://provider-tv.xyz:8080/popescu/popescu/19401
+
+#EXTINF:-1,HDNet Premiere
+http://provider-tv.xyz:8080/popescu/popescu/19402
+
+#EXTINF:-1,HDNet Steven Seagal
+http://provider-tv.xyz:8080/popescu/popescu/19403
+
+#EXTINF:-1,HDNetRO iUmor
+http://provider-tv.xyz:8080/popescu/popescu/19398
+
+#EXTINF:-1,HDNet Horror
+http://provider-tv.xyz:8080/popescu/popescu/19404
+
+#EXTINF:-1,HDNet Jean Claude Van Damme
+http://provider-tv.xyz:8080/popescu/popescu/19405
+
+#EXTINF:-1,HDNet Comedy
+http://provider-tv.xyz:8080/popescu/popescu/19406
+
+#EXTINF:-1,HDNet Bollywood
+http://provider-tv.xyz:8080/popescu/popescu/19407
+
+#EXTINF:-1,Luc.TV Colectie Romania
+http://provider-tv.xyz:8080/popescu/popescu/19411
+
+#EXTINF:-1,Luc.TV  Two and a Half Men
+http://provider-tv.xyz:8080/popescu/popescu/19412
+
+#EXTINF:-1,Luc.TV  Star Action
+http://provider-tv.xyz:8080/popescu/popescu/19413
+
+#EXTINF:-1,Luc.TV 4K
+http://provider-tv.xyz:8080/popescu/popescu/19422
+
+#EXTINF:-1,Skynet War
+http://provider-tv.xyz:8080/popescu/popescu/19414
+
+#EXTINF:-1,Cinema  Comedie Franceza
+http://provider-tv.xyz:8080/popescu/popescu/19416
+
+#EXTINF:-1,Luc.TV CineMovies Manele
+http://provider-tv.xyz:8080/popescu/popescu/19420
+
+#EXTINF:-1,GlobalTv Cinema
+http://provider-tv.xyz:8080/popescu/popescu/43607
+
+#EXTINF:-1,???Canale ZokkoTV???
+http://provider-tv.xyz:8080/popescu/popescu/43661
+
+#EXTINF:-1,ZokkoTv New Releases
+http://provider-tv.xyz:8080/popescu/popescu/43625
+
+#EXTINF:-1,ZokkoTv Movies 2020
+http://provider-tv.xyz:8080/popescu/popescu/43626
+
+#EXTINF:-1,ZokkoTv 4K
+http://provider-tv.xyz:8080/popescu/popescu/43627
+
+#EXTINF:-1,ZokkoTv Music
+http://provider-tv.xyz:8080/popescu/popescu/43628
+
+#EXTINF:-1,ZokkoTv Movies 4K
+http://provider-tv.xyz:8080/popescu/popescu/43629
+
+#EXTINF:-1,ZokkoTv 4K Two
+http://provider-tv.xyz:8080/popescu/popescu/43630
+
+#EXTINF:-1,ZokkoTv 4K Three
+http://provider-tv.xyz:8080/popescu/popescu/43631
+
+#EXTINF:-1,ZokkoTv Kids
+http://provider-tv.xyz:8080/popescu/popescu/43632
+
+#EXTINF:-1,ZokkoTv Kids Two
+http://provider-tv.xyz:8080/popescu/popescu/43633
+
+#EXTINF:-1,ZokkoTv Kids Three
+http://provider-tv.xyz:8080/popescu/popescu/43634
+
+#EXTINF:-1,ZokkoTv Kids Four
+http://provider-tv.xyz:8080/popescu/popescu/43635
+
+#EXTINF:-1,ZokkoTv Kids Five
+http://provider-tv.xyz:8080/popescu/popescu/43636
+
+#EXTINF:-1,ZokkoTv Manele
+http://provider-tv.xyz:8080/popescu/popescu/43637
+
+#EXTINF:-1,ZokkoTv Action Four
+http://provider-tv.xyz:8080/popescu/popescu/43638
+
+#EXTINF:-1,ZokkoTv Action Five
+http://provider-tv.xyz:8080/popescu/popescu/43639
+
+#EXTINF:-1,ZokkoTv Action Three
+http://provider-tv.xyz:8080/popescu/popescu/43640
+
+#EXTINF:-1,ZokkoTv Action Six
+http://provider-tv.xyz:8080/popescu/popescu/43641
+
+#EXTINF:-1,ZokkoTv Action Seven
+http://provider-tv.xyz:8080/popescu/popescu/43642
+
+#EXTINF:-1,ZokkoTv Action Eight
+http://provider-tv.xyz:8080/popescu/popescu/43643
+
+#EXTINF:-1,ZokkoTv Action Nine
+http://provider-tv.xyz:8080/popescu/popescu/43644
+
+#EXTINF:-1,ZokkoTv Action Ten
+http://provider-tv.xyz:8080/popescu/popescu/43645
+
+#EXTINF:-1,ZokkoTv Comedy
+http://provider-tv.xyz:8080/popescu/popescu/43646
+
+#EXTINF:-1,ZokkoTV Comedy Two
+http://provider-tv.xyz:8080/popescu/popescu/43647
+
+#EXTINF:-1,ZokkoTv Horror
+http://provider-tv.xyz:8080/popescu/popescu/43648
+
+#EXTINF:-1,ZokkoTv Horror Two
+http://provider-tv.xyz:8080/popescu/popescu/43649
+
+#EXTINF:-1,ZokkoTv Horror Three
+http://provider-tv.xyz:8080/popescu/popescu/43650
+
+#EXTINF:-1,ZokkoTv Adventure
+http://provider-tv.xyz:8080/popescu/popescu/43651
+
+#EXTINF:-1,ZokkoTv Adventure Two
+http://provider-tv.xyz:8080/popescu/popescu/43652
+
+#EXTINF:-1,ZokkoTv Adventure Three
+http://provider-tv.xyz:8080/popescu/popescu/43653
+
+#EXTINF:-1,ZokkoTv Thriller
+http://provider-tv.xyz:8080/popescu/popescu/43654
+
+#EXTINF:-1,ZokkoTv Thriller Three
+http://provider-tv.xyz:8080/popescu/popescu/43655
+
+#EXTINF:-1,ZokkoTv Thriller Four
+http://provider-tv.xyz:8080/popescu/popescu/43656
+
+#EXTINF:-1,ZokkoTv Action
+http://provider-tv.xyz:8080/popescu/popescu/43657
+
+#EXTINF:-1,ZokkoTv Action Two
+http://provider-tv.xyz:8080/popescu/popescu/43658
+
+#EXTINF:-1,ZokkoTv Thriller Two
+http://provider-tv.xyz:8080/popescu/popescu/43659
+
+#EXTINF:-1,ZokkoTv Science Fiction
+http://provider-tv.xyz:8080/popescu/popescu/43660
+
+#EXTINF:-1,ZokkoTv Science Fiction Two
+http://provider-tv.xyz:8080/popescu/popescu/43662
+
+#EXTINF:-1,ZokkoTv Science Fiction Three
+http://provider-tv.xyz:8080/popescu/popescu/43663
+
+#EXTINF:-1,ZokkoTv New Movies
+http://provider-tv.xyz:8080/popescu/popescu/43664
+
+#EXTINF:-1,ZokkoTv Music Alternative( Necenzurat)
+http://provider-tv.xyz:8080/popescu/popescu/43665
+
+#EXTINF:-1,KingTv Bollywood
+http://provider-tv.xyz:8080/popescu/popescu/43666
+
+#EXTINF:-1,KingTv Comedie
+http://provider-tv.xyz:8080/popescu/popescu/43667
+
+#EXTINF:-1,KingTv Western
+http://provider-tv.xyz:8080/popescu/popescu/43668
+
+#EXTINF:-1,King Tv Talking Tom
+http://provider-tv.xyz:8080/popescu/popescu/43669
+
+#EXTINF:-1,Kingtv  Booba Kids
+http://provider-tv.xyz:8080/popescu/popescu/43670
+
+#EXTINF:-1,KingTv Tom $ Jerry
+http://provider-tv.xyz:8080/popescu/popescu/43671
+
+#EXTINF:-1,KingTv Talking Tom Shorts
+http://provider-tv.xyz:8080/popescu/popescu/43672
+
+#EXTINF:-1,KingTv Thriller
+http://provider-tv.xyz:8080/popescu/popescu/43673
+
+#EXTINF:-1,KingTv Aventura
+http://provider-tv.xyz:8080/popescu/popescu/43674
+
+#EXTINF:-1,KingTv 4k
+http://provider-tv.xyz:8080/popescu/popescu/43675
+
+#EXTINF:-1,KingTv Premiere
+http://provider-tv.xyz:8080/popescu/popescu/43676
+
+#EXTINF:-1,KingTv Diverse Cinema
+http://provider-tv.xyz:8080/popescu/popescu/43677
+
+#EXTINF:-1,KingTv 4K UHD
+http://provider-tv.xyz:8080/popescu/popescu/43678
+
+#EXTINF:-1,KingTv Arte Martiale
+http://provider-tv.xyz:8080/popescu/popescu/43679
+
+#EXTINF:-1,KingTv 24/7
+http://provider-tv.xyz:8080/popescu/popescu/43680
+
+#EXTINF:-1,KingTv Summer Mix
+http://provider-tv.xyz:8080/popescu/popescu/43681
+
+#EXTINF:-1,***RELIGIE***
+http://provider-tv.xyz:8080/popescu/popescu/8250
+
+#EXTINF:-1,TRINITAS TV SD
+http://provider-tv.xyz:8080/popescu/popescu/8066
+
+#EXTINF:-1,ALPHA MEDIA SD
+http://provider-tv.xyz:8080/popescu/popescu/8064
+
+#EXTINF:-1,ALFA OMEGA SD
+http://provider-tv.xyz:8080/popescu/popescu/8063
+
+#EXTINF:-1,Maria TV
+http://provider-tv.xyz:8080/popescu/popescu/42851
+
+#EXTINF:-1,SPERANTA TV SD
+http://provider-tv.xyz:8080/popescu/popescu/8071
+
+#EXTINF:-1,CREDO TV SD
+http://provider-tv.xyz:8080/popescu/popescu/8065
+
+#EXTINF:-1,*** REGIONALE ***
+http://provider-tv.xyz:8080/popescu/popescu/8251
+
+#EXTINF:-1,SOMAX TV SD
+http://provider-tv.xyz:8080/popescu/popescu/8198
+
+#EXTINF:-1,VP SD
+http://provider-tv.xyz:8080/popescu/popescu/8196
+
+#EXTINF:-1,NASUL TV SD
+http://provider-tv.xyz:8080/popescu/popescu/8061
+
+#EXTINF:-1,AGRO TV SD
+http://provider-tv.xyz:8080/popescu/popescu/8062
+
+#EXTINF:-1,TVR International
+http://provider-tv.xyz:8080/popescu/popescu/8219
+
+#EXTINF:-1,PopasTV
+http://provider-tv.xyz:8080/popescu/popescu/8230
+
+#EXTINF:-1,NorocTV
+http://provider-tv.xyz:8080/popescu/popescu/8231
+
+#EXTINF:-1,Look Plus
+http://provider-tv.xyz:8080/popescu/popescu/8220
+
+#EXTINF:-1,GurinelTV
+http://provider-tv.xyz:8080/popescu/popescu/8235
+
+#EXTINF:-1,TELESTAR1 SD
+http://provider-tv.xyz:8080/popescu/popescu/8074
+
+#EXTINF:-1,TELE MOLDOVA PLUS SD
+http://provider-tv.xyz:8080/popescu/popescu/8202
+
+#EXTINF:-1,TV PAPRIKA SD
+http://provider-tv.xyz:8080/popescu/popescu/8070
+
+#EXTINF:-1,Stirile ProTV
+http://provider-tv.xyz:8080/popescu/popescu/8200
+
+#EXTINF:-1,SANGEORZ TV SD
+http://provider-tv.xyz:8080/popescu/popescu/8197
+
+#EXTINF:-1,S TV SD
+http://provider-tv.xyz:8080/popescu/popescu/8189
+
+#EXTINF:-1,PROFIT TV RO SD
+http://provider-tv.xyz:8080/popescu/popescu/8072
+
+#EXTINF:-1,TELE M IASI
+http://provider-tv.xyz:8080/popescu/popescu/8188
+
+#EXTINF:-1,TV SUD EST SD
+http://provider-tv.xyz:8080/popescu/popescu/8081
+
+#EXTINF:-1,NCN SD
+http://provider-tv.xyz:8080/popescu/popescu/8076
+
+#EXTINF:-1,MEDIKA TV SD
+http://provider-tv.xyz:8080/popescu/popescu/8077
+
+#EXTINF:-1,LITORAL TV SD
+http://provider-tv.xyz:8080/popescu/popescu/8082
+
+#EXTINF:-1,KAPITAL TV SD
+http://provider-tv.xyz:8080/popescu/popescu/8079
+
+#EXTINF:-1,INFORMATIA TV SD
+http://provider-tv.xyz:8080/popescu/popescu/8201
+
+#EXTINF:-1,INEDIT TV SD
+http://provider-tv.xyz:8080/popescu/popescu/8080
+
+#EXTINF:-1,IASI TV SD
+http://provider-tv.xyz:8080/popescu/popescu/8192
+
+#EXTINF:-1,CROMTEL TV SD
+http://provider-tv.xyz:8080/popescu/popescu/8187
+
+#EXTINF:-1,BUCURESTI TV SD
+http://provider-tv.xyz:8080/popescu/popescu/8075
+
+#EXTINF:-1,BUCOVINA TV SD
+http://provider-tv.xyz:8080/popescu/popescu/8194
+
+#EXTINF:-1,ANTENA MONDEN SD
+http://provider-tv.xyz:8080/popescu/popescu/8205
+
+#EXTINF:-1,ANTENA COOK&PLAY SD
+http://provider-tv.xyz:8080/popescu/popescu/8206
+
+#EXTINF:-1,ANTENA COMEDY PLAY SD
+http://provider-tv.xyz:8080/popescu/popescu/8204
+
+#EXTINF:-1,### Moldova&Russia ###
+http://provider-tv.xyz:8080/popescu/popescu/21488
+
+#EXTINF:-1,Moldova 1
+http://provider-tv.xyz:8080/popescu/popescu/21489
+
+#EXTINF:-1,Moldova 1 HD
+http://provider-tv.xyz:8080/popescu/popescu/21490
+
+#EXTINF:-1,ProTV Chisinau
+http://provider-tv.xyz:8080/popescu/popescu/21491
+
+#EXTINF:-1,ProTV Chisinau HD
+http://provider-tv.xyz:8080/popescu/popescu/21492
+
+#EXTINF:-1,JurnalTV
+http://provider-tv.xyz:8080/popescu/popescu/21493
+
+#EXTINF:-1,JurnalTV HD
+http://provider-tv.xyz:8080/popescu/popescu/21494
+
+#EXTINF:-1,TV8 HD
+http://provider-tv.xyz:8080/popescu/popescu/21495
+
+#EXTINF:-1,Prime HD
+http://provider-tv.xyz:8080/popescu/popescu/21496
+
+#EXTINF:-1,Primul in Moldova
+http://provider-tv.xyz:8080/popescu/popescu/21497
+
+#EXTINF:-1,Canal2 HD
+http://provider-tv.xyz:8080/popescu/popescu/21498
+
+#EXTINF:-1,Canal 3 HD
+http://provider-tv.xyz:8080/popescu/popescu/21499
+
+#EXTINF:-1,Publika TV HD
+http://provider-tv.xyz:8080/popescu/popescu/21500
+
+#EXTINF:-1,NTV Moldova
+http://provider-tv.xyz:8080/popescu/popescu/21501
+
+#EXTINF:-1,TNT Moldova
+http://provider-tv.xyz:8080/popescu/popescu/21502
+
+#EXTINF:-1,RenTV Moldova
+http://provider-tv.xyz:8080/popescu/popescu/21503
+
+#EXTINF:-1,RTR Moldova
+http://provider-tv.xyz:8080/popescu/popescu/21504
+
+#EXTINF:-1,CTC Mega
+http://provider-tv.xyz:8080/popescu/popescu/21505
+
+#EXTINF:-1,Familia
+http://provider-tv.xyz:8080/popescu/popescu/21506
+
+#EXTINF:-1,TVC 21
+http://provider-tv.xyz:8080/popescu/popescu/21507
+
+#EXTINF:-1,AccentTV
+http://provider-tv.xyz:8080/popescu/popescu/21508
+
+#EXTINF:-1,10TV Moldova
+http://provider-tv.xyz:8080/popescu/popescu/21509
+
+#EXTINF:-1,Vocea Basarabiei
+http://provider-tv.xyz:8080/popescu/popescu/21510
+
+#EXTINF:-1,OrheiTV
+http://provider-tv.xyz:8080/popescu/popescu/21511
+
+#EXTINF:-1,TVR Moldova
+http://provider-tv.xyz:8080/popescu/popescu/21512
+
+#EXTINF:-1,Publika TV
+http://provider-tv.xyz:8080/popescu/popescu/41695
+
+#EXTINF:-1,PRO TV Chisinau
+http://provider-tv.xyz:8080/popescu/popescu/41696
+
+#EXTINF:-1,Primul în Moldova
+http://provider-tv.xyz:8080/popescu/popescu/41697
+
+#EXTINF:-1,Moldova 2
+http://provider-tv.xyz:8080/popescu/popescu/41698
+
+#EXTINF:-1,Moldova 1
+http://provider-tv.xyz:8080/popescu/popescu/41699
+
+#EXTINF:-1,Drochia TV
+http://provider-tv.xyz:8080/popescu/popescu/41700
+
+#EXTINF:-1,Canal Regional
+http://provider-tv.xyz:8080/popescu/popescu/41701
+
+#EXTINF:-1,Balti TV
+http://provider-tv.xyz:8080/popescu/popescu/41702
+
+#EXTINF:-1,Accent TV
+http://provider-tv.xyz:8080/popescu/popescu/41703
+
+#EXTINF:-1,Actualitatea TV
+http://provider-tv.xyz:8080/popescu/popescu/41705
+
+#EXTINF:-1,Alfa Omega TV
+http://provider-tv.xyz:8080/popescu/popescu/41706
+
+#EXTINF:-1,Antena Comedy
+http://provider-tv.xyz:8080/popescu/popescu/41707
+
+#EXTINF:-1,Antena Monden
+http://provider-tv.xyz:8080/popescu/popescu/41708
+
+#EXTINF:-1,ANTENA PLAY COMEDY
+http://provider-tv.xyz:8080/popescu/popescu/41709
+
+#EXTINF:-1,CANAL 33
+http://provider-tv.xyz:8080/popescu/popescu/41712
+
+#EXTINF:-1,IDA TV
+http://provider-tv.xyz:8080/popescu/popescu/41714
+
+#EXTINF:-1,Intermedia TV
+http://provider-tv.xyz:8080/popescu/popescu/41716
+
+#EXTINF:-1,Kapital TV
+http://provider-tv.xyz:8080/popescu/popescu/41717
+
+#EXTINF:-1,Noroc TV
+http://provider-tv.xyz:8080/popescu/popescu/41718
+
+#EXTINF:-1,Profit.ro
+http://provider-tv.xyz:8080/popescu/popescu/41719
+
+#EXTINF:-1,STV
+http://provider-tv.xyz:8080/popescu/popescu/41720
+
+#EXTINF:-1,Telestar 1
+http://provider-tv.xyz:8080/popescu/popescu/41721
+
+#EXTINF:-1,TV Elita
+http://provider-tv.xyz:8080/popescu/popescu/41722
+
+#EXTINF:-1,TV Sat
+http://provider-tv.xyz:8080/popescu/popescu/41723
+
+#EXTINF:-1,TV Sud Est
+http://provider-tv.xyz:8080/popescu/popescu/41724
+
+#EXTINF:-1,TVR Cluj
+http://provider-tv.xyz:8080/popescu/popescu/41726
+
+#EXTINF:-1,TVR Craiova
+http://provider-tv.xyz:8080/popescu/popescu/41727
+
+#EXTINF:-1,TVR Iasi
+http://provider-tv.xyz:8080/popescu/popescu/41728
+
+#EXTINF:-1,TVR MOLDOVA
+http://provider-tv.xyz:8080/popescu/popescu/41729
+
+#EXTINF:-1,TVR Targu Mures
+http://provider-tv.xyz:8080/popescu/popescu/41730
+
+#EXTINF:-1,TVR Timisoara
+http://provider-tv.xyz:8080/popescu/popescu/41731
+
+#EXTINF:-1,Viasat Nature FHD
+http://provider-tv.xyz:8080/popescu/popescu/7416
 
