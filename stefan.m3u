@@ -1,3 +1,5 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-name="***  Romania Tv  ***" tvg-logo="https://i.ibb.co/RbBmk80/Whats-App-Image-2019-11-26-at-15-31-57-1.jpg" group-title="Romania",***  Romania Tv  
 #EXTINF:-1,RO: PRO CINEMA
 http://televiziune.live/filme/live1/82fc8ed0f581ffbcc61e2df306188bf3/1.ts
 #EXTINF:-1,RO: HBO
