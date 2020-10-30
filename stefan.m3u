@@ -1,344 +1,145 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-name="***  Romania Tv  ***" tvg-logo="https://i.ibb.co/RbBmk80/Whats-App-Image-2019-11-26-at-15-31-57-1.jpg" group-title="Romania",***  Romania Tv  
-
-
-
-#EXTINF:-1,AGRO
-
-
-
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/e107c7ca255c800.m3u8
-
-
-#EXTINF:-1,ANTENA 1
-
-
-
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/d38b087f5478d20.m3u8
-
-
-#EXTINF:-1,ANTENA 3
-
-
-
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/eea2f9ac923744e.m3u8
-
-
-#EXTINF:-1,ANTENA STAR
-
-
-
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/26d412aa06ef56f.m3u8
-
-
-#EXTINF:-1,AXN ROMANIA
-
-
-#EXTVLCOPT:http-user-agent=stream
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/0ac6308d1fe5a4a.m3u8
-
-
-#EXTINF:-1,AXN BLACK
-
-
-#EXTVLCOPT:http-user-agent=stream
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/b4d25d361d1d84f.m3u8
-
-
-#EXTINF:-1,AXN WHITE
-
-
-#EXTVLCOPT:http-user-agent=stream
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/393934ba80c2c40.m3u8
-
-
-#EXTINF:-1,DIGI ANIMAL WORLD
-
-
-#EXTVLCOPT:http-user-agent=stream
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/8acf907135592b5.m3u8
-
-
-#EXTINF:-1,DIGI FILM
-
-
-#EXTVLCOPT:http-user-agent=stream
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/b7479f81431d320.m3u8
-
-
-#EXTINF:-1,DISNEY CHANNEL ROMANIA
-
-
-#EXTVLCOPT:http-user-agent=stream
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/98c7fc4df4df95e.m3u8
-
-
-#EXTINF:-1,DISNEY JR ROMANIA
-
-
-#EXTVLCOPT:http-user-agent=stream
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/9b85387d7ac12f6.m3u8
-
-
-#EXTINF:-1,FILM CAFE
-
-
-#EXTVLCOPT:http-user-agent=stream
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/743a33f3b2eb454.m3u8
-
-
-#EXTINF:-1,FOOD NETWORK
-
-
-#EXTVLCOPT:http-user-agent=stream
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/4005a361f077f15.m3u8
-
-
-#EXTINF:-1,HBO 1
-
-
-#EXTVLCOPT:http-user-agent=stream
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/ed78d7b3852e007.m3u8
-
-
-#EXTINF:-1,HBO 2
-
-
-#EXTVLCOPT:http-user-agent=stream
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/b2a0d38b7c42f0b.m3u8
-
-
-#EXTINF:-1,HBO 3
-
-
-#EXTVLCOPT:http-user-agent=stream
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/71d3130589690d6.m3u8
-
-
-#EXTINF:-1,NAT GEO ROMANIA
-
-
-#EXTVLCOPT:http-user-agent=stream
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/82bcd9ae3c063d5.m3u8
-
-
-#EXTINF:-1,NICKLODEON ROMANIA
-
-
-#EXTVLCOPT:http-user-agent=stream
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/c64c03c786e3d82.m3u8
-
-
-#EXTINF:-1,CARTOON NETWORK ROMANIA
-
-
-#EXTVLCOPT:http-user-agent=stream
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/1dbefc5b92be0ad.m3u8
-
-
-#EXTINF:-1,VIASAT HISTORY
-
-
-#EXTVLCOPT:http-user-agent=stream
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/d3b65f7bc9bc08e.m3u8
-
-
-#EXTINF:-1,VIASAT NATURE
-
-
-#EXTVLCOPT:http-user-agent=stream
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/28d7d262d9afee0.m3u8
-
-
-#EXTINF:-1,HISTORY ROMANIA
-
-
-#EXTVLCOPT:http-user-agent=stream
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/558d6436705cae7.m3u8
-
-
-#EXTINF:-1,NATIONAL TV
-
-
-#EXTVLCOPT:http-user-agent=stream
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/7e814372e6dc422.m3u8
-
-
-#EXTINF:-1,ROMANIA TV
-
-
-#EXTVLCOPT:http-user-agent=stream
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/7c465c85cfc4c9e.m3u8
-
-
-#EXTINF:-1,KISS TV
-
-
-#EXTVLCOPT:http-user-agent=stream
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/057f936c4c3ce7a.m3u8
-
-
-#EXTINF:-1,MUSIC CHANNEL
-
-
-#EXTVLCOPT:http-user-agent=stream
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/39b4bef377421a9.m3u8
-
-
-#EXTINF:-1,PRO TV
-
-
-#EXTVLCOPT:http-user-agent=stream
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/3a52ed3f472fbdb.m3u8
-
-
-#EXTINF:-1,TVR 1
-
-
-#EXTVLCOPT:http-user-agent=stream
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/44222d92cefc4bf.m3u8
-
-
-#EXTINF:-1,TVR 2
-
-
-#EXTVLCOPT:http-user-agent=stream
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/1a89952890b07f3.m3u8
-
-
-#EXTINF:-1,DIGI 24
-
-
-#EXTVLCOPT:http-user-agent=stream
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/42ed92d56a23930.m3u8
-
-
-#EXTINF:-1,B1
-
-
-#EXTVLCOPT:http-user-agent=stream
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/f19cdd878856e55.m3u8
-
-
-#EXTINF:-1,KANAL D
-
-
-#EXTVLCOPT:http-user-agent=stream
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/7b570b448ee1711.m3u8
-
-
-#EXTINF:-1,Realitatea TV
-
-
-#EXTVLCOPT:http-user-agent=stream
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/8d890b3059e988d.m3u8
-
-
-#EXTINF:-1,U TV
-
-
-#EXTVLCOPT:http-user-agent=stream
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/ee55c63c31faaa4.m3u8
-
-#EXTINF:-1,DIGI SPORT 1
-
-
-#EXTVLCOPT:http-user-agent=stream
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/33f99f5f5d2cc63.m3u8
-
-
-#EXTINF:-1,DIGI SPORT 2
-
-
-#EXTVLCOPT:http-user-agent=stream
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/c4a35acc0045efd.m3u8
-
-
-#EXTINF:-1,DIGI SPORT 3
-
-
-#EXTVLCOPT:http-user-agent=stream
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/83bc99d55b548f1.m3u8
-
-
-#EXTINF:-1,DIGI SPORT 4
-
-
-#EXTVLCOPT:http-user-agent=stream
-
-
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/e349111464e6ea2.m3u8
+#EXTINF:-1 tvg-name="***  Romania Tv  ***" tvg-logo="https://image.roku.com/developer_channels/prod/13df7f7d1189de743144820a2f56213000f7cc59b83e9878da0c7ee9ff02b0fc.png" group-title="Romania",***  Romania Tv  
+
+
+
+#EXTINF:-1,RO: PRO CINEMA
+http://televiziune.live/filme/live1/d5261760d0d6bfc37dbf373062ae2096/1.ts
+#EXTINF:-1,RO: HBO
+http://televiziune.live/filme/live1/d5261760d0d6bfc37dbf373062ae2096/2.ts
+#EXTINF:-1,RO: HBO 2
+http://televiziune.live/filme/live1/d5261760d0d6bfc37dbf373062ae2096/3.ts
+#EXTINF:-1,RO: HBO 3
+http://televiziune.live/filme/live1/d5261760d0d6bfc37dbf373062ae2096/4.ts
+#EXTINF:-1,RO: CINEMAX
+http://televiziune.live/filme/live1/d5261760d0d6bfc37dbf373062ae2096/5.ts
+#EXTINF:-1,RO: CINEMAX 2
+http://televiziune.live/filme/live1/d5261760d0d6bfc37dbf373062ae2096/6.ts
+#EXTINF:-1,RO: FILMNOW
+http://televiziune.live/filme/live1/d5261760d0d6bfc37dbf373062ae2096/7.ts
+#EXTINF:-1,RO: AMC
+http://televiziune.live/filme/live1/d5261760d0d6bfc37dbf373062ae2096/10.ts
+#EXTINF:-1,RO: AXN
+http://televiziune.live/filme/live1/d5261760d0d6bfc37dbf373062ae2096/11.ts
+#EXTINF:-1,RO: AXN BLACK
+http://televiziune.live/filme/live1/d5261760d0d6bfc37dbf373062ae2096/12.ts
+#EXTINF:-1,RO: AXN WHITE
+http://televiziune.live/filme/live1/d5261760d0d6bfc37dbf373062ae2096/13.ts
+#EXTINF:-1,RO: AXN SPIN
+http://televiziune.live/filme/live1/d5261760d0d6bfc37dbf373062ae2096/14.ts
+#EXTINF:-1,RO: FILMBOX
+http://televiziune.live/filme/live1/d5261760d0d6bfc37dbf373062ae2096/37.ts
+#EXTINF:-1,RO: FILMBOX PREMIUM
+http://televiziune.live/filme/live1/d5261760d0d6bfc37dbf373062ae2096/57.ts
+#EXTINF:-1,RO: U TV
+http://televiziune.live/muzica/live1/d5261760d0d6bfc37dbf373062ae2096/22.ts
+#EXTINF:-1,RO: ZU TV
+http://televiziune.live/muzica/live1/d5261760d0d6bfc37dbf373062ae2096/23.ts
+#EXTINF:-1,RO: KISS TV
+http://televiziune.live/muzica/live1/d5261760d0d6bfc37dbf373062ae2096/25.ts
+#EXTINF:-1,RO: MOOZ HITS
+http://televiziune.live/muzica/live1/d5261760d0d6bfc37dbf373062ae2096/40.ts
+#EXTINF:-1,RO: 1 MUSIC CHANNEL
+http://televiziune.live/muzica/live1/d5261760d0d6bfc37dbf373062ae2096/48.ts
+#EXTINF:-1,RO: MTV EUROPE
+http://televiziune.live/muzica/live1/d5261760d0d6bfc37dbf373062ae2096/61.ts
+#EXTINF:-1,RO: MTV HITS
+http://televiziune.live/muzica/live1/d5261760d0d6bfc37dbf373062ae2096/62.ts
+#EXTINF:-1,RO: CLUB MTV
+http://televiziune.live/muzica/live1/d5261760d0d6bfc37dbf373062ae2096/65.ts
+#EXTINF:-1,RO: MTV LIVE HD
+http://televiziune.live/muzica/live1/d5261760d0d6bfc37dbf373062ae2096/66.ts
+#EXTINF:-1,RO: MTV MUSIC 24
+http://televiziune.live/muzica/live1/d5261760d0d6bfc37dbf373062ae2096/67.ts
+#EXTINF:-1,RO: BRIDGE TV DELUXE
+http://televiziune.live/muzica/live1/d5261760d0d6bfc37dbf373062ae2096/154.ts
+#EXTINF:-1,RO: BRIDGE TV HITS
+http://televiziune.live/muzica/live1/d5261760d0d6bfc37dbf373062ae2096/155.ts
+#EXTINF:-1,RO: MANELE TV
+http://televiziune.live/muzica/live1/d5261760d0d6bfc37dbf373062ae2096/164.ts
+#EXTINF:-1,RO: MINIMAX
+http://televiziune.live/deseneanimate/live1/d5261760d0d6bfc37dbf373062ae2096/3.ts
+#EXTINF:-1,RO: BOOMERANG
+http://televiziune.live/deseneanimate/live1/d5261760d0d6bfc37dbf373062ae2096/6.ts
+#EXTINF:-1,RO: Nickelodeon
+http://televiziune.live/deseneanimate/live1/d5261760d0d6bfc37dbf373062ae2096/8.ts
+#EXTINF:-1,RO: DISNEY JUNIOR
+http://televiziune.live/deseneanimate/live1/d5261760d0d6bfc37dbf373062ae2096/9.ts
+#EXTINF:-1,RO: DISNEY CHANNEL
+http://televiziune.live/deseneanimate/live1/d5261760d0d6bfc37dbf373062ae2096/10.ts
+#EXTINF:-1,RO: CARTOON NETWORK
+http://televiziune.live/deseneanimate/live1/d5261760d0d6bfc37dbf373062ae2096/11.ts
+#EXTINF:-1,RO: MR. Bean 24/7
+http://televiziune.live/deseneanimate/live1/d5261760d0d6bfc37dbf373062ae2096/22.ts
+#EXTINF:-1,RO: JOHNNY BRAVO 24/7
+http://televiziune.live/deseneanimate/live1/d5261760d0d6bfc37dbf373062ae2096/25.ts
+#EXTINF:-1,RO: TOM & JERRY
+http://televiziune.live/deseneanimate/live1/d5261760d0d6bfc37dbf373062ae2096/26.ts
+#EXTINF:-1,RO: DIGI LIFE
+http://televiziune.live/documentare/live1/d5261760d0d6bfc37dbf373062ae2096/1.ts
+#EXTINF:-1,RO: DIGI WORLD
+http://televiziune.live/documentare/live1/d5261760d0d6bfc37dbf373062ae2096/2.ts
+#EXTINF:-1,RO: DIGI ANIMAL WORLD
+http://televiziune.live/documentare/live1/d5261760d0d6bfc37dbf373062ae2096/3.ts
+#EXTINF:-1,RO: Crime + Investigation
+http://televiziune.live/documentare/live1/d5261760d0d6bfc37dbf373062ae2096/6.ts
+#EXTINF:-1,RO: HISTORY CHANNEL
+http://televiziune.live/documentare/live1/d5261760d0d6bfc37dbf373062ae2096/10.ts
+#EXTINF:-1,RO: HISTORY 2
+http://televiziune.live/documentare/live1/d5261760d0d6bfc37dbf373062ae2096/11.ts
+#EXTINF:-1,RO: DISCOVERY CHANNEL
+http://televiziune.live/documentare/live1/d5261760d0d6bfc37dbf373062ae2096/12.ts
+#EXTINF:-1,RO: DISCOVERY SCIENCE
+http://televiziune.live/documentare/live1/d5261760d0d6bfc37dbf373062ae2096/13.ts
+#EXTINF:-1,RO: DISCOVERY ID
+http://televiziune.live/documentare/live1/d5261760d0d6bfc37dbf373062ae2096/14.ts
+#EXTINF:-1,RO: NATIONAL GEOGRAPHIC
+http://televiziune.live/documentare/live1/d5261760d0d6bfc37dbf373062ae2096/15.ts
+#EXTINF:-1,RO: CBS REALITY
+http://televiziune.live/documentare/live1/d5261760d0d6bfc37dbf373062ae2096/18.ts
+#EXTINF:-1,RO: BBC EARTH
+http://televiziune.live/documentare/live1/d5261760d0d6bfc37dbf373062ae2096/21.ts
+#EXTINF:-1,RO: DIGI SPORT 1
+http://televiziune.live/sport/live1/d5261760d0d6bfc37dbf373062ae2096/3.ts
+#EXTINF:-1,RO: DIGI SPORT 2
+http://televiziune.live/sport/live1/d5261760d0d6bfc37dbf373062ae2096/4.ts
+#EXTINF:-1,RO: DIGI SPORT 3
+http://televiziune.live/sport/live1/d5261760d0d6bfc37dbf373062ae2096/5.ts
+#EXTINF:-1,RO: DIGI SPORT 4
+http://televiziune.live/sport/live1/d5261760d0d6bfc37dbf373062ae2096/6.ts
+#EXTINF:-1,RO: TELEKOM SPORT 1
+http://televiziune.live/sport/live1/d5261760d0d6bfc37dbf373062ae2096/7.ts
+#EXTINF:-1,RO: TELEKOM SPORT 2
+http://televiziune.live/sport/live1/d5261760d0d6bfc37dbf373062ae2096/8.ts
+#EXTINF:-1,RO: TELEKOM SPORT 3
+http://televiziune.live/sport/live1/d5261760d0d6bfc37dbf373062ae2096/9.ts
+#EXTINF:-1,RO: TELEKOM SPORT 4
+http://televiziune.live/sport/live1/d5261760d0d6bfc37dbf373062ae2096/10.ts
+#EXTINF:-1,RO: FIGHT BOX
+http://televiziune.live/sport/live1/d5261760d0d6bfc37dbf373062ae2096/58.ts
+#EXTINF:-1,RO: ANTENA 1
+http://televiziune.live/generaliste/live1/d5261760d0d6bfc37dbf373062ae2096/4.ts
+#EXTINF:-1,RO: ANTENA STARS
+http://televiziune.live/generaliste/live1/d5261760d0d6bfc37dbf373062ae2096/13.ts
+#EXTINF:-1,RO: PRO TV
+http://televiziune.live/generaliste/live1/d5261760d0d6bfc37dbf373062ae2096/3.ts
+#EXTINF:-1,RO: DIGI 4k
+http://televiziune.live/generaliste/live1/d5261760d0d6bfc37dbf373062ae2096/34.ts
+#EXTINF:-1,RO: PRO 2
+http://televiziune.live/generaliste/live1/d5261760d0d6bfc37dbf373062ae2096/10.ts
+#EXTINF:-1,RO: PRO X
+http://televiziune.live/generaliste/live1/d5261760d0d6bfc37dbf373062ae2096/9.ts
+#EXTINF:-1,RO: PRO GOLD
+http://televiziune.live/generaliste/live1/d5261760d0d6bfc37dbf373062ae2096/11.ts
+#EXTINF:-1,RO: KANAL D
+http://televiziune.live/generaliste/live1/d5261760d0d6bfc37dbf373062ae2096/5.ts
+#EXTINF:-1,RO: PRIMA TV
+http://televiziune.live/generaliste/live1/d5261760d0d6bfc37dbf373062ae2096/6.ts
+#EXTINF:-1,RO: RO TV
+http://televiziune.live/generaliste/live1/d5261760d0d6bfc37dbf373062ae2096/31.ts
+#EXTINF:-1,RO: TVR 1
+http://televiziune.live/generaliste/live1/d5261760d0d6bfc37dbf373062ae2096/1.ts
+#EXTINF:-1,RO: TVR 2
+http://televiziune.live/generaliste/live1/d5261760d0d6bfc37dbf373062ae2096/2.ts
+#EXTINF:-1,RO: TVR 3
+http://televiziune.live/generaliste/live1/d5261760d0d6bfc37dbf373062ae2096/24.ts
