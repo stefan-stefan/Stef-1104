@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-name="***  Romania Tv  ***" tvg-logo="https://image.roku.com/developer_channels/prod/13df7f7d1189de743144820a2f56213000f7cc59b83e9878da0c7ee9ff02b0fc.png" group-title="Romania",***  Romania Tv
-#EXTINF:-1 tvg-name="▬ Romania [RO] ▬" tvg-logo="https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png" group-title="Romania",Stefan Free
+#EXTINF:-1 tvg-name="▬ Romania [RO] ▬" tvg-logo="https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png" group-title="Romania",**Stefan Free**
 
 http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/16518
 #EXTINF:0,TVR 1 FHD RO
