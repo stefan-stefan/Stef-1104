@@ -1,20 +1,19 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-name="***  Romania Tv  ***" tvg-logo="https://image.roku.com/developer_channels/prod/13df7f7d1189de743144820a2f56213000f7cc59b83e9878da0c7ee9ff02b0fc.png" group-title="Romania",***  Romania Tv
-#EXTINF:0,▬ Romania [RO] ▬
-#EXTVLCOPT:network-caching=1000
+#EXTINF:0,▬ Romania [RO] ▬" tvg-logo="https://logos.flamingtext.com/Name-Logos/Stefan-design-power-name.gif" group-title="Romania",
+
 http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/16518
 #EXTINF:0,TVR 1 FHD RO
 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/15393
+http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/15393
 #EXTINF:0,TVR 1 RO
 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14581
+http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14581
 #EXTINF:0,Pro TV HD RO
 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/25754
+http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/25754
 #EXTINF:0,Pro TV RO
-
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14591
+http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14591
 #EXTINF:0,Antena 1 HD RO
 
 http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/23851
