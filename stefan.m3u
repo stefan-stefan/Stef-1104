@@ -5,16 +5,16 @@
 http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/16518
 #EXTINF:0,TVR 1 FHD RO
 
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/15393
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/15393
 #EXTINF:0,TVR 1 RO
 
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14581
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14581
 #EXTINF:0,Pro TV HD RO
 
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/25754
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/25754
 #EXTINF:0,Pro TV RO
 
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14591
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14591
 #EXTINF:0,Antena 1 HD RO
 
 http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/23851
