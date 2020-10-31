@@ -1,426 +1,77 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-name="***  Romania Tv  ***" tvg-logo="https://image.roku.com/developer_channels/prod/13df7f7d1189de743144820a2f56213000f7cc59b83e9878da0c7ee9ff02b0fc.png" group-title="Romania",***  Romania Tv
 #EXTINF:-1 tvg-name="***  **Stefan Free**  ***" tvg-logo="https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png" group-title="Romania",*** **Stefan Free**
-
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/16518
-#EXTINF:0,TVR 1 FHD RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/15393
-#EXTINF:0,TVR 1 RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14581
-#EXTINF:0,Pro TV HD RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/25754
-#EXTINF:0,Pro TV RO
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14591
-#EXTINF:0,Antena 1 HD RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/23851
-#EXTINF:0,Antena 1 RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14636
-#EXTINF:0,KANAL D RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14601
-#EXTINF:0,TVR 2 RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14580
-#EXTINF:0,TVR 3 RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/15391
-#EXTINF:0,TVR International RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/15386
-#EXTINF:0,Pro TV International RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14589
-#EXTINF:0,Prima TV RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14642
-#EXTINF:0,B1 RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14632
-#EXTINF:0,Național TV RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14595
-#EXTINF:0,Digi 24 RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14627
-#EXTINF:0,Realitatea TV RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14641
-#EXTINF:0,Antena 3 RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14637
-#EXTINF:0,Romania TV RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14587
-#EXTINF:0,National 24 Plus RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/30443
-#EXTINF:0,PRO 2 HD RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/32689
-#EXTINF:0,PRO 2 RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14635
-#EXTINF:0,Pro Gold RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14648
-#EXTINF:0,Antena Stars RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14638
-#EXTINF:0,Happy Channel RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/13385
-#EXTINF:0,Fine Living RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14645
-#EXTINF:0,E! RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/32882
-#EXTINF:0,Cartoon Network RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14631
-#EXTINF:0,Disney Channel RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14614
-#EXTINF:0,Disney Junior RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14613
-#EXTINF:0,Minimax RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14644
-#EXTINF:0,Nickelodeon RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/32815
-#EXTINF:0,NickToons RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/32823
-#EXTINF:0,Boomerang RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/31960
-#EXTINF:0,JimJam RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/31961
-#EXTINF:0,Duck TV RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/30308
-#EXTINF:0,Animal Planet HD RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/30444
-#EXTINF:0,Animal Planet RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14626
-#EXTINF:0,Discovery Channel RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/24904
-#EXTINF:0,Discovery Science RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/27675
-#EXTINF:0,History RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14603
-#EXTINF:0,National Geographic RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14596
-#EXTINF:0,National Geographic Wild HD RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/32691
-#EXTINF:0,National Geographic Wild RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14593
-#EXTINF:0,Digi Life RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14624
-#EXTINF:0,Digi World HD RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14619
-#EXTINF:0,DTX RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/30446
-#EXTINF:0,BBC Earth RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/30307
-#EXTINF:0,Travel Channel HD RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/31520
-#EXTINF:0,TLC RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14616
-#EXTINF:0,Da Vinci Learning RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14628
-#EXTINF:0,DocuBox RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/23947
-#EXTINF:0,Eurosport 1 RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/32884
-#EXTINF:0,Eurosport 1 HD RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14609
-#EXTINF:0,Eurosport 2 RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14610
-#EXTINF:0,Digi Sport 1 HD RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/20428
-#EXTINF:0,Digi Sport 1 RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14623
-#EXTINF:0,Digi Sport 2 HD RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/20427
-#EXTINF:0,Digi Sport 2 RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14622
-#EXTINF:0,Digi Sport 3 HD RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14621
-#EXTINF:0,Digi Sport 4 HD RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14620
-#EXTINF:0,Telekom Sport 1 HD RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/16546
-#EXTINF:0,Telekom Sport 2 RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/24226
-#EXTINF:0,Telekom Sport 3 RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/24227
-#EXTINF:0,Telekom Sport 4 RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/24228
-#EXTINF:0,LookSport HD RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/27539
-#EXTINF:0,LookPlus RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14599
-#EXTINF:0,Pro X HD RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/32690
-#EXTINF:0,Pro X RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14640
-#EXTINF:0,Extreme Sports Channel RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/31962
-#EXTINF:0,HBO RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14604
-#EXTINF:0,HBO FHD RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/27550
-#EXTINF:0,HBO 2 HD RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/32877
-#EXTINF:0,HBO 2 RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/16559
-#EXTINF:0,HBO 3 HD RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/32878
-#EXTINF:0,HBO 3 RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14605
-#EXTINF:0,Cinemax HD RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14629
-#EXTINF:0,Cinemax 2 RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/16558
-#EXTINF:0,Film Now HD RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/27662
-#EXTINF:0,AXN HD RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14634
-#EXTINF:0,AXN White RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14660
-#EXTINF:0,AXN Black RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14661
-#EXTINF:0,AXN Spin RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/32879
-#EXTINF:0,AMC RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14647
-#EXTINF:0,TNT Exclusiv MD
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/32880
-#EXTINF:0,CineMaraton HD RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/30309
-#EXTINF:0,Film Cafe RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14607
-#EXTINF:0,Diva Universal RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14612
-#EXTINF:0,Paramount Channel RO
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14633
-
-
-#EXTINF:0,FilmBox RO
-#EXTVLCOPT:network-caching=1000
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/32886
-#EXTINF:0,FilmBox Premium RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/32885
-#EXTINF:0,Bollywood TV RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/32883
-#EXTINF:0,Pro Cinema RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14590
-#EXTINF:0,Comedy Central RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/32816
-#EXTINF:0,Magic TV RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/30310
-#EXTINF:0,U TV RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14579
-#EXTINF:0,Kiss TV RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14600
-#EXTINF:0,ZU TV RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/23853
-#EXTINF:0,Mooz Dance RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/27674
-#EXTINF:0,Mooz RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/18332
-#EXTINF:0,1 Music Channel RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14597
-#EXTINF:0,Taraf TV RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14584
-#EXTINF:0,Hora TV RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/30306
-#EXTINF:0,Etno TV RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14611
-#EXTINF:0,Favorit TV RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14608
-#EXTINF:0,Mezzo RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/32881
-#EXTINF:0,Film Now RO
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/14250
-#EXTINF:0,Nick Jr. RO
-#EXTVLCOPT:network-caching=1000
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/37671
-#EXTINF:0,10 TV FHD MD
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/60077
-#EXTINF:0,5 Kanal MD
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/60078
-#EXTINF:0,Agro TV MD
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/60079
-#EXTINF:0,BTV FHD MD
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/60080
-#EXTINF:0,Busuioc TV MD
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/60081
-#EXTINF:0,Canal 2 FHD MD
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/60082
-#EXTINF:0,Canal 3 FHD MD
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/60083
-#EXTINF:0,Kanal D MD
-#EXTVLCOPT:network-caching=1000
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/60084
-#EXTINF:0,STS Mega MD
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/60085
-#EXTINF:0,Drochia TV MD
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/60086
-#EXTINF:0,Gurinel TV HD MD
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/60087
-#EXTINF:0,Jurnal TV FHD MD
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/60088
-#EXTINF:0,Moldova 2 FHD MD
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/60089
-#EXTINF:0,Moldova 1 FHD MD
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/60090
-#EXTINF:0,Mult Bravo FHD MD
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/60091
-#EXTINF:0,N4 MD
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/60092
-#EXTINF:0,Noroc TV MD
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/60093
-#EXTINF:0,NTS HD MD
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/60094
-#EXTINF:0,NTV Moldova MD
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/60095
-#EXTINF:0,Orhei TV FHD MD
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/60096
-#EXTINF:0,Prime TV FHD MD
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/60097
-#EXTINF:0,Primul FHD MD
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/60098
-#EXTINF:0,Pro TV FHD MD
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/60099
-#EXTINF:0,Publika TV FHD MD
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/60100
-#EXTINF:0,Ren Moldova FHD MD
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/60101
-#EXTINF:0,RTR Moldova FHD MD
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/60102
-#EXTINF:0,Televiziunea Centrala FHD MD
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/60103
-#EXTINF:0,TV 8 FHD MD
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/60104
-#EXTINF:0,TVC 21 MD
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/60105
-#EXTINF:0,TVR Moldova MD
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/60106
-#EXTINF:0,Zona M MD
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/60107
-#EXTINF:0,Vocea Basarabiei FHD MD
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/60108
-#EXTINF:0,MBC FHD MD
-
-http://cloudflare.cdn.cdntraffice.com:80/rgXi4d1hhg9466/Pjb91d892/60109
+#EXTINF:-1,▰ ROMANIA ▰▰▰
+http://rexshx.com:25461/lista60/Gu78JDA5d6/936
+#EXTINF:-1,RO: TVR 1
+http://rexshx.com:25461/lista60/Gu78JDA5d6/969
+#EXTINF:-1,RO: TVR 2
+http://rexshx.com:25461/lista60/Gu78JDA5d6/970
+#EXTINF:-1,RO: TVR 3
+http://rexshx.com:25461/lista60/Gu78JDA5d6/971
+#EXTINF:-1,RO: Taraf
+http://rexshx.com:25461/lista60/Gu78JDA5d6/967
+#EXTINF:-1,RO: National TV
+http://rexshx.com:25461/lista60/Gu78JDA5d6/968
+#EXTINF:-1,RO: Antena 1
+http://rexshx.com:25461/lista60/Gu78JDA5d6/963
+#EXTINF:-1,RO: Antena 3
+http://rexshx.com:25461/lista60/Gu78JDA5d6/964
+#EXTINF:-1,RO: Antena Stars
+http://rexshx.com:25461/lista60/Gu78JDA5d6/962
+#EXTINF:-1,RO: ZU TV
+http://rexshx.com:25461/lista60/Gu78JDA5d6/937
+#EXTINF:-1,RO: Viasat History
+http://rexshx.com:25461/lista60/Gu78JDA5d6/938
+#EXTINF:-1,RO: TV1000
+http://rexshx.com:25461/lista60/Gu78JDA5d6/939
+#EXTINF:-1,RO: TV Paprika
+http://rexshx.com:25461/lista60/Gu78JDA5d6/940
+#EXTINF:-1,RO: TNT
+http://rexshx.com:25461/lista60/Gu78JDA5d6/941
+#EXTINF:-1,RO: Pro TV
+http://rexshx.com:25461/lista60/Gu78JDA5d6/942
+#EXTINF:-1,RO: Pro Cinema
+http://rexshx.com:25461/lista60/Gu78JDA5d6/943
+#EXTINF:-1,RO: Prima TV
+http://rexshx.com:25461/lista60/Gu78JDA5d6/944
+#EXTINF:-1,RO: Megamax
+http://rexshx.com:25461/lista60/Gu78JDA5d6/945
+#EXTINF:-1,RO: Look Plus
+http://rexshx.com:25461/lista60/Gu78JDA5d6/946
+#EXTINF:-1,RO: Kiss TV
+http://rexshx.com:25461/lista60/Gu78JDA5d6/947
+#EXTINF:-1,RO: Kanal D
+http://rexshx.com:25461/lista60/Gu78JDA5d6/948
+#EXTINF:-1,RO: History Channel
+http://rexshx.com:25461/lista60/Gu78JDA5d6/949
+#EXTINF:-1,RO: HBO 1
+http://rexshx.com:25461/lista60/Gu78JDA5d6/950
+#EXTINF:-1,RO: HBO 2
+http://rexshx.com:25461/lista60/Gu78JDA5d6/951
+#EXTINF:-1,RO: HBO 3
+http://rexshx.com:25461/lista60/Gu78JDA5d6/952
+#EXTINF:-1,RO: Etno TV
+http://rexshx.com:25461/lista60/Gu78JDA5d6/953
+#EXTINF:-1,RO: Disney Junior
+http://rexshx.com:25461/lista60/Gu78JDA5d6/954
+#EXTINF:-1,RO: Digi Animal World
+http://rexshx.com:25461/lista60/Gu78JDA5d6/955
+#EXTINF:-1,RO: Digi 24
+http://rexshx.com:25461/lista60/Gu78JDA5d6/956
+#EXTINF:-1,RO: Cinemax 1
+http://rexshx.com:25461/lista60/Gu78JDA5d6/957
+#EXTINF:-1,RO: Cinemax 2
+http://rexshx.com:25461/lista60/Gu78JDA5d6/958
+#EXTINF:-1,RO: B1
+http://rexshx.com:25461/lista60/Gu78JDA5d6/959
+#EXTINF:-1,RO: AXN White
+http://rexshx.com:25461/lista60/Gu78JDA5d6/960
+#EXTINF:-1,RO: AXN
+http://rexshx.com:25461/lista60/Gu78JDA5d6/961
+#EXTINF:-1,RO: 1 Music Channel
+http://rexshx.com:25461/lista60/Gu78JDA5d6/965
+#EXTINF:-1,RO: Favorit TV
+http://rexshx.com:25461/lista60/Gu78JDA5d6/966
+#EXTINF:-1,RO: Boomerang
+http://rexshx.com:25461/lista60/Gu78JDA5d6/1561
